@@ -31,3 +31,27 @@ button {
   cursor: pointer;
   font-weight: bold;
 }
+
+.ship {
+  position: relative;
+  width: 300px;
+  animation:
+    sailIn 2.5s ease-out forwards,
+    float 3s ease-in-out infinite;
+  animation-delay: 0s, 2.5s;
+}
+
+@keyframes sailIn {
+  from {
+    transform: translateX(-120%);
+  }
+  to {
+    transform: translateX(0);
+  }
+}
+
+@keyframes float {
+  0% { transform: translateY(0); }
+  50% { transform: translateY(-8px); }
+  100% { transform: translateY(0); }
+}
