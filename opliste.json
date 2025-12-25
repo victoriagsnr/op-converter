@@ -1,0 +1,3314 @@
+[
+  {
+    "animeStarts": 1,
+    "animeEnds": 1,
+    "mangaStarts": 2,
+    "mangaEnds": 2,
+    "extraChapter": "",
+    "arc": "East Blue"
+  },
+  {
+    "animeStarts": 2,
+    "animeEnds": 2,
+    "mangaStarts": 3,
+    "mangaEnds": 5,
+    "extraChapter": "",
+    "arc": "East Blue"
+  },
+  {
+    "animeStarts": 3,
+    "animeEnds": 3,
+    "mangaStarts": 5,
+    "mangaEnds": 7,
+    "extraChapter": "",
+    "arc": "East Blue"
+  },
+  {
+    "animeStarts": 4,
+    "animeEnds": 4,
+    "mangaStarts": 1,
+    "mangaEnds": 1,
+    "extraChapter": 8,
+    "arc": "East Blue"
+  },
+  {
+    "animeStarts": 5,
+    "animeEnds": 5,
+    "mangaStarts": 8,
+    "mangaEnds": 11,
+    "extraChapter": "",
+    "arc": "East Blue"
+  },
+  {
+    "animeStarts": 6,
+    "animeEnds": 6,
+    "mangaStarts": 11,
+    "mangaEnds": 15,
+    "extraChapter": "",
+    "arc": "East Blue"
+  },
+  {
+    "animeStarts": 7,
+    "animeEnds": 7,
+    "mangaStarts": 15,
+    "mangaEnds": 18,
+    "extraChapter": "",
+    "arc": "East Blue"
+  },
+  {
+    "animeStarts": 8,
+    "animeEnds": 8,
+    "mangaStarts": 19,
+    "mangaEnds": 21,
+    "extraChapter": "",
+    "arc": "East Blue"
+  },
+  {
+    "animeStarts": 9,
+    "animeEnds": 9,
+    "mangaStarts": 23,
+    "mangaEnds": 24,
+    "extraChapter": "",
+    "arc": "East Blue"
+  },
+  {
+    "animeStarts": 10,
+    "animeEnds": 10,
+    "mangaStarts": 24,
+    "mangaEnds": 26,
+    "extraChapter": "",
+    "arc": "East Blue"
+  },
+  {
+    "animeStarts": 11,
+    "animeEnds": 11,
+    "mangaStarts": 26,
+    "mangaEnds": 27,
+    "extraChapter": "",
+    "arc": "East Blue"
+  },
+  {
+    "animeStarts": 12,
+    "animeEnds": 12,
+    "mangaStarts": 28,
+    "mangaEnds": 30,
+    "extraChapter": "",
+    "arc": "East Blue"
+  },
+  {
+    "animeStarts": 13,
+    "animeEnds": 13,
+    "mangaStarts": 30,
+    "mangaEnds": 32,
+    "extraChapter": "",
+    "arc": "East Blue"
+  },
+  {
+    "animeStarts": 14,
+    "animeEnds": 14,
+    "mangaStarts": 33,
+    "mangaEnds": 34,
+    "extraChapter": "",
+    "arc": "East Blue"
+  },
+  {
+    "animeStarts": 15,
+    "animeEnds": 15,
+    "mangaStarts": 35,
+    "mangaEnds": 37,
+    "extraChapter": "",
+    "arc": "East Blue"
+  },
+  {
+    "animeStarts": 16,
+    "animeEnds": 16,
+    "mangaStarts": 38,
+    "mangaEnds": 39,
+    "extraChapter": "",
+    "arc": "East Blue"
+  },
+  {
+    "animeStarts": 17,
+    "animeEnds": 17,
+    "mangaStarts": 39,
+    "mangaEnds": 41,
+    "extraChapter": "",
+    "arc": "East Blue"
+  },
+  {
+    "animeStarts": 18,
+    "animeEnds": 18,
+    "mangaStarts": 22,
+    "mangaEnds": 22,
+    "extraChapter": 42,
+    "arc": "East Blue"
+  },
+  {
+    "animeStarts": 19,
+    "animeEnds": 19,
+    "mangaStarts": 5,
+    "mangaEnds": 5,
+    "extraChapter": 42,
+    "arc": "East Blue"
+  },
+  {
+    "animeStarts": 20,
+    "animeEnds": 20,
+    "mangaStarts": 42,
+    "mangaEnds": 43,
+    "extraChapter": "",
+    "arc": "East Blue"
+  },
+  {
+    "animeStarts": 21,
+    "animeEnds": 21,
+    "mangaStarts": 44,
+    "mangaEnds": 45,
+    "extraChapter": "",
+    "arc": "East Blue"
+  },
+  {
+    "animeStarts": 22,
+    "animeEnds": 22,
+    "mangaStarts": 46,
+    "mangaEnds": 47,
+    "extraChapter": "",
+    "arc": "East Blue"
+  },
+  {
+    "animeStarts": 23,
+    "animeEnds": 23,
+    "mangaStarts": 48,
+    "mangaEnds": 49,
+    "extraChapter": "",
+    "arc": "East Blue"
+  },
+  {
+    "animeStarts": 24,
+    "animeEnds": 24,
+    "mangaStarts": 50,
+    "mangaEnds": 52,
+    "extraChapter": "",
+    "arc": "East Blue"
+  },
+  {
+    "animeStarts": 25,
+    "animeEnds": 25,
+    "mangaStarts": 53,
+    "mangaEnds": 55,
+    "extraChapter": "",
+    "arc": "East Blue"
+  },
+  {
+    "animeStarts": 26,
+    "animeEnds": 26,
+    "mangaStarts": 56,
+    "mangaEnds": 59,
+    "extraChapter": "",
+    "arc": "East Blue"
+  },
+  {
+    "animeStarts": 27,
+    "animeEnds": 27,
+    "mangaStarts": 59,
+    "mangaEnds": 62,
+    "extraChapter": "",
+    "arc": "East Blue"
+  },
+  {
+    "animeStarts": 28,
+    "animeEnds": 28,
+    "mangaStarts": 62,
+    "mangaEnds": 64,
+    "extraChapter": "",
+    "arc": "East Blue"
+  },
+  {
+    "animeStarts": 29,
+    "animeEnds": 29,
+    "mangaStarts": 65,
+    "mangaEnds": 66,
+    "extraChapter": "",
+    "arc": "East Blue"
+  },
+  {
+    "animeStarts": 30,
+    "animeEnds": 30,
+    "mangaStarts": 67,
+    "mangaEnds": 68,
+    "extraChapter": "",
+    "arc": "East Blue"
+  },
+  {
+    "animeStarts": 31,
+    "animeEnds": 31,
+    "mangaStarts": 69,
+    "mangaEnds": 71,
+    "extraChapter": "",
+    "arc": "East Blue"
+  },
+  {
+    "animeStarts": 32,
+    "animeEnds": 32,
+    "mangaStarts": 70,
+    "mangaEnds": 73,
+    "extraChapter": "",
+    "arc": "East Blue"
+  },
+  {
+    "animeStarts": 33,
+    "animeEnds": 33,
+    "mangaStarts": 73,
+    "mangaEnds": 75,
+    "extraChapter": "",
+    "arc": "East Blue"
+  },
+  {
+    "animeStarts": 34,
+    "animeEnds": 34,
+    "mangaStarts": 75,
+    "mangaEnds": 77,
+    "extraChapter": "",
+    "arc": "East Blue"
+  },
+  {
+    "animeStarts": 35,
+    "animeEnds": 35,
+    "mangaStarts": 77,
+    "mangaEnds": 78,
+    "extraChapter": "",
+    "arc": "East Blue"
+  },
+  {
+    "animeStarts": 36,
+    "animeEnds": 36,
+    "mangaStarts": 78,
+    "mangaEnds": 80,
+    "extraChapter": "",
+    "arc": "East Blue"
+  },
+  {
+    "animeStarts": 37,
+    "animeEnds": 37,
+    "mangaStarts": 80,
+    "mangaEnds": 81,
+    "extraChapter": "",
+    "arc": "East Blue"
+  },
+  {
+    "animeStarts": 38,
+    "animeEnds": 38,
+    "mangaStarts": 82,
+    "mangaEnds": 84,
+    "extraChapter": "",
+    "arc": "East Blue"
+  },
+  {
+    "animeStarts": 39,
+    "animeEnds": 39,
+    "mangaStarts": 84,
+    "mangaEnds": 86,
+    "extraChapter": "",
+    "arc": "East Blue"
+  },
+  {
+    "animeStarts": 40,
+    "animeEnds": 40,
+    "mangaStarts": 86,
+    "mangaEnds": 88,
+    "extraChapter": "",
+    "arc": "East Blue"
+  },
+  {
+    "animeStarts": 41,
+    "animeEnds": 41,
+    "mangaStarts": 88,
+    "mangaEnds": 90,
+    "extraChapter": "",
+    "arc": "East Blue"
+  },
+  {
+    "animeStarts": 42,
+    "animeEnds": 42,
+    "mangaStarts": 90,
+    "mangaEnds": 92,
+    "extraChapter": "",
+    "arc": "East Blue"
+  },
+  {
+    "animeStarts": 43,
+    "animeEnds": 43,
+    "mangaStarts": 92,
+    "mangaEnds": 94,
+    "extraChapter": "",
+    "arc": "East Blue"
+  },
+  {
+    "animeStarts": 44,
+    "animeEnds": 44,
+    "mangaStarts": 95,
+    "mangaEnds": 95,
+    "extraChapter": "",
+    "arc": "East Blue"
+  },
+  {
+    "animeStarts": 45,
+    "animeEnds": 45,
+    "mangaStarts": 96,
+    "mangaEnds": 96,
+    "extraChapter": "",
+    "arc": "East Blue"
+  },
+  {
+    "animeStarts": 46,
+    "animeEnds": 46,
+    "mangaStarts": 35,
+    "mangaEnds": 35,
+    "extraChapter": "37,39,40,42,43,46,47,48,50,51,53,54",
+    "arc": "East Blue"
+  },
+  {
+    "animeStarts": 47,
+    "animeEnds": 47,
+    "mangaStarts": 36,
+    "mangaEnds": 36,
+    "extraChapter": "55,57,58,59,60,62,63,65,66,67,68,71,72,73,74,75",
+    "arc": "East Blue"
+  },
+  {
+    "animeStarts": 48,
+    "animeEnds": 48,
+    "mangaStarts": 96,
+    "mangaEnds": 98,
+    "extraChapter": "",
+    "arc": "East Blue"
+  },
+  {
+    "animeStarts": 49,
+    "animeEnds": 49,
+    "mangaStarts": 97,
+    "mangaEnds": 97,
+    "extraChapter": "",
+    "arc": "East Blue"
+  },
+  {
+    "animeStarts": 50,
+    "animeEnds": 50,
+    "mangaStarts": "Filler",
+    "mangaEnds": "Filler",
+    "extraChapter": "",
+    "arc": "East Blue"
+  },
+  {
+    "animeStarts": 51,
+    "animeEnds": 51,
+    "mangaStarts": "Filler",
+    "mangaEnds": "Filler",
+    "extraChapter": "",
+    "arc": "East Blue"
+  },
+  {
+    "animeStarts": 52,
+    "animeEnds": 52,
+    "mangaStarts": 98,
+    "mangaEnds": 99,
+    "extraChapter": "",
+    "arc": "East Blue"
+  },
+  {
+    "animeStarts": 53,
+    "animeEnds": 53,
+    "mangaStarts": 100,
+    "mangaEnds": 100,
+    "extraChapter": "",
+    "arc": "East Blue"
+  },
+  {
+    "animeStarts": 54,
+    "animeEnds": 54,
+    "mangaStarts": 101,
+    "mangaEnds": 101,
+    "extraChapter": "",
+    "arc": "East Blue"
+  },
+  {
+    "animeStarts": 55,
+    "animeEnds": 55,
+    "mangaStarts": 101,
+    "mangaEnds": 101,
+    "extraChapter": "",
+    "arc": "East Blue"
+  },
+  {
+    "animeStarts": 56,
+    "animeEnds": 56,
+    "mangaStarts": "Filler",
+    "mangaEnds": "Filler",
+    "extraChapter": "",
+    "arc": "East Blue"
+  },
+  {
+    "animeStarts": 57,
+    "animeEnds": 57,
+    "mangaStarts": "Filler",
+    "mangaEnds": "Filler",
+    "extraChapter": "",
+    "arc": "East Blue"
+  },
+  {
+    "animeStarts": 58,
+    "animeEnds": 58,
+    "mangaStarts": "Filler",
+    "mangaEnds": "Filler",
+    "extraChapter": "",
+    "arc": "East Blue"
+  },
+  {
+    "animeStarts": 59,
+    "animeEnds": 59,
+    "mangaStarts": "Filler",
+    "mangaEnds": "Filler",
+    "extraChapter": "",
+    "arc": "East Blue"
+  },
+  {
+    "animeStarts": 60,
+    "animeEnds": 60,
+    "mangaStarts": "Filler",
+    "mangaEnds": "Filler",
+    "extraChapter": "",
+    "arc": "East Blue"
+  },
+  {
+    "animeStarts": 61,
+    "animeEnds": 61,
+    "mangaStarts": 101,
+    "mangaEnds": 101,
+    "extraChapter": "",
+    "arc": "East Blue"
+  },
+  {
+    "animeStarts": 62,
+    "animeEnds": 62,
+    "mangaStarts": 102,
+    "mangaEnds": 103,
+    "extraChapter": "",
+    "arc": "Alabasta Saga"
+  },
+  {
+    "animeStarts": 63,
+    "animeEnds": 63,
+    "mangaStarts": 103,
+    "mangaEnds": 105,
+    "extraChapter": "",
+    "arc": "Alabasta Saga"
+  },
+  {
+    "animeStarts": 64,
+    "animeEnds": 64,
+    "mangaStarts": 106,
+    "mangaEnds": 107,
+    "extraChapter": "",
+    "arc": "Alabasta Saga"
+  },
+  {
+    "animeStarts": 65,
+    "animeEnds": 65,
+    "mangaStarts": 107,
+    "mangaEnds": 110,
+    "extraChapter": "",
+    "arc": "Alabasta Saga"
+  },
+  {
+    "animeStarts": 66,
+    "animeEnds": 66,
+    "mangaStarts": 110,
+    "mangaEnds": 112,
+    "extraChapter": "",
+    "arc": "Alabasta Saga"
+  },
+  {
+    "animeStarts": 67,
+    "animeEnds": 67,
+    "mangaStarts": 113,
+    "mangaEnds": 114,
+    "extraChapter": "",
+    "arc": "Alabasta Saga"
+  },
+  {
+    "animeStarts": 68,
+    "animeEnds": 68,
+    "mangaStarts": 83,
+    "mangaEnds": 83,
+    "extraChapter": "85,87,93,95,99,101,102,104,106,108,110,112,113",
+    "arc": "Alabasta Saga"
+  },
+  {
+    "animeStarts": 69,
+    "animeEnds": 69,
+    "mangaStarts": 114,
+    "mangaEnds": 114,
+    "extraChapter": "116,118,119",
+    "arc": "Alabasta Saga"
+  },
+  {
+    "animeStarts": 70,
+    "animeEnds": 70,
+    "mangaStarts": 115,
+    "mangaEnds": 117,
+    "extraChapter": "",
+    "arc": "Alabasta Saga"
+  },
+  {
+    "animeStarts": 71,
+    "animeEnds": 71,
+    "mangaStarts": 116,
+    "mangaEnds": 116,
+    "extraChapter": 118,
+    "arc": "Alabasta Saga"
+  },
+  {
+    "animeStarts": 72,
+    "animeEnds": 72,
+    "mangaStarts": 117,
+    "mangaEnds": 119,
+    "extraChapter": "",
+    "arc": "Alabasta Saga"
+  },
+  {
+    "animeStarts": 73,
+    "animeEnds": 73,
+    "mangaStarts": 119,
+    "mangaEnds": 120,
+    "extraChapter": "",
+    "arc": "Alabasta Saga"
+  },
+  {
+    "animeStarts": 74,
+    "animeEnds": 74,
+    "mangaStarts": 121,
+    "mangaEnds": 122,
+    "extraChapter": "",
+    "arc": "Alabasta Saga"
+  },
+  {
+    "animeStarts": 75,
+    "animeEnds": 75,
+    "mangaStarts": 123,
+    "mangaEnds": 124,
+    "extraChapter": "",
+    "arc": "Alabasta Saga"
+  },
+  {
+    "animeStarts": 76,
+    "animeEnds": 76,
+    "mangaStarts": 124,
+    "mangaEnds": 126,
+    "extraChapter": "",
+    "arc": "Alabasta Saga"
+  },
+  {
+    "animeStarts": 77,
+    "animeEnds": 77,
+    "mangaStarts": 127,
+    "mangaEnds": 129,
+    "extraChapter": "",
+    "arc": "Alabasta Saga"
+  },
+  {
+    "animeStarts": 78,
+    "animeEnds": 78,
+    "mangaStarts": 129,
+    "mangaEnds": 131,
+    "extraChapter": "",
+    "arc": "Alabasta Saga"
+  },
+  {
+    "animeStarts": 79,
+    "animeEnds": 79,
+    "mangaStarts": 128,
+    "mangaEnds": 128,
+    "extraChapter": "131,132",
+    "arc": "Alabasta Saga"
+  },
+  {
+    "animeStarts": 80,
+    "animeEnds": 80,
+    "mangaStarts": 132,
+    "mangaEnds": 134,
+    "extraChapter": "",
+    "arc": "Alabasta Saga"
+  },
+  {
+    "animeStarts": 81,
+    "animeEnds": 81,
+    "mangaStarts": 134,
+    "mangaEnds": 136,
+    "extraChapter": "",
+    "arc": "Alabasta Saga"
+  },
+  {
+    "animeStarts": 82,
+    "animeEnds": 82,
+    "mangaStarts": 136,
+    "mangaEnds": 138,
+    "extraChapter": "",
+    "arc": "Alabasta Saga"
+  },
+  {
+    "animeStarts": 83,
+    "animeEnds": 83,
+    "mangaStarts": 138,
+    "mangaEnds": 139,
+    "extraChapter": "",
+    "arc": "Alabasta Saga"
+  },
+  {
+    "animeStarts": 84,
+    "animeEnds": 84,
+    "mangaStarts": 139,
+    "mangaEnds": 140,
+    "extraChapter": "",
+    "arc": "Drum Island"
+  },
+  {
+    "animeStarts": 85,
+    "animeEnds": 85,
+    "mangaStarts": 140,
+    "mangaEnds": 143,
+    "extraChapter": "",
+    "arc": "Drum Island"
+  },
+  {
+    "animeStarts": 86,
+    "animeEnds": 86,
+    "mangaStarts": 141,
+    "mangaEnds": 145,
+    "extraChapter": "",
+    "arc": "Drum Island"
+  },
+  {
+    "animeStarts": 87,
+    "animeEnds": 87,
+    "mangaStarts": 145,
+    "mangaEnds": 148,
+    "extraChapter": "",
+    "arc": "Drum Island"
+  },
+  {
+    "animeStarts": 88,
+    "animeEnds": 88,
+    "mangaStarts": 147,
+    "mangaEnds": 150,
+    "extraChapter": "",
+    "arc": "Drum Island"
+  },
+  {
+    "animeStarts": 89,
+    "animeEnds": 89,
+    "mangaStarts": 150,
+    "mangaEnds": 152,
+    "extraChapter": "",
+    "arc": "Drum Island"
+  },
+  {
+    "animeStarts": 90,
+    "animeEnds": 90,
+    "mangaStarts": 152,
+    "mangaEnds": 153,
+    "extraChapter": "",
+    "arc": "Drum Island"
+  },
+  {
+    "animeStarts": 91,
+    "animeEnds": 91,
+    "mangaStarts": 142,
+    "mangaEnds": 142,
+    "extraChapter": "154,155",
+    "arc": "Drum Island"
+  },
+  {
+    "animeStarts": "",
+    "animeEnds": "",
+    "mangaStarts": "",
+    "mangaEnds": "",
+    "extraChapter": "",
+    "arc": ""
+  },
+  {
+    "animeStarts": 92,
+    "animeEnds": 92,
+    "mangaStarts": 155,
+    "mangaEnds": 157,
+    "extraChapter": "",
+    "arc": "Alabasta"
+  },
+  {
+    "animeStarts": 93,
+    "animeEnds": 93,
+    "mangaStarts": 158,
+    "mangaEnds": 158,
+    "extraChapter": "",
+    "arc": "Alabasta"
+  },
+  {
+    "animeStarts": 94,
+    "animeEnds": 94,
+    "mangaStarts": 157,
+    "mangaEnds": 157,
+    "extraChapter": 158,
+    "arc": "Alabasta"
+  },
+  {
+    "animeStarts": 95,
+    "animeEnds": 95,
+    "mangaStarts": 159,
+    "mangaEnds": 159,
+    "extraChapter": "",
+    "arc": "Alabasta"
+  },
+  {
+    "animeStarts": 96,
+    "animeEnds": 96,
+    "mangaStarts": 159,
+    "mangaEnds": 161,
+    "extraChapter": "",
+    "arc": "Alabasta"
+  },
+  {
+    "animeStarts": 97,
+    "animeEnds": 97,
+    "mangaStarts": 162,
+    "mangaEnds": 162,
+    "extraChapter": "",
+    "arc": "Alabasta"
+  },
+  {
+    "animeStarts": 98,
+    "animeEnds": 98,
+    "mangaStarts": 162,
+    "mangaEnds": 162,
+    "extraChapter": "",
+    "arc": "Alabasta"
+  },
+  {
+    "animeStarts": 99,
+    "animeEnds": 99,
+    "mangaStarts": "Filler",
+    "mangaEnds": "Filler",
+    "extraChapter": "",
+    "arc": "Alabasta"
+  },
+  {
+    "animeStarts": 100,
+    "animeEnds": 100,
+    "mangaStarts": 163,
+    "mangaEnds": 164,
+    "extraChapter": "",
+    "arc": "Alabasta"
+  },
+  {
+    "animeStarts": 101,
+    "animeEnds": 101,
+    "mangaStarts": 159,
+    "mangaEnds": 159,
+    "extraChapter": "",
+    "arc": "Alabasta"
+  },
+  {
+    "animeStarts": 102,
+    "animeEnds": 102,
+    "mangaStarts": "Filler",
+    "mangaEnds": "Filler",
+    "extraChapter": "",
+    "arc": "Alabasta"
+  },
+  {
+    "animeStarts": 103,
+    "animeEnds": 103,
+    "mangaStarts": 160,
+    "mangaEnds": 165,
+    "extraChapter": "",
+    "arc": "Alabasta"
+  },
+  {
+    "animeStarts": 104,
+    "animeEnds": 104,
+    "mangaStarts": 165,
+    "mangaEnds": 166,
+    "extraChapter": "",
+    "arc": "Alabasta"
+  },
+  {
+    "animeStarts": 105,
+    "animeEnds": 105,
+    "mangaStarts": 167,
+    "mangaEnds": 168,
+    "extraChapter": "",
+    "arc": "Alabasta"
+  },
+  {
+    "animeStarts": 106,
+    "animeEnds": 106,
+    "mangaStarts": 169,
+    "mangaEnds": 170,
+    "extraChapter": "",
+    "arc": "Alabasta"
+  },
+  {
+    "animeStarts": 107,
+    "animeEnds": 107,
+    "mangaStarts": 171,
+    "mangaEnds": 172,
+    "extraChapter": "",
+    "arc": "Alabasta"
+  },
+  {
+    "animeStarts": 108,
+    "animeEnds": 108,
+    "mangaStarts": 172,
+    "mangaEnds": 174,
+    "extraChapter": "",
+    "arc": "Alabasta"
+  },
+  {
+    "animeStarts": 109,
+    "animeEnds": 109,
+    "mangaStarts": 175,
+    "mangaEnds": 176,
+    "extraChapter": "",
+    "arc": "Alabasta"
+  },
+  {
+    "animeStarts": 110,
+    "animeEnds": 110,
+    "mangaStarts": 176,
+    "mangaEnds": 178,
+    "extraChapter": "",
+    "arc": "Alabasta"
+  },
+  {
+    "animeStarts": 111,
+    "animeEnds": 111,
+    "mangaStarts": 179,
+    "mangaEnds": 180,
+    "extraChapter": "",
+    "arc": "Alabasta"
+  },
+  {
+    "animeStarts": 112,
+    "animeEnds": 112,
+    "mangaStarts": 180,
+    "mangaEnds": 183,
+    "extraChapter": "",
+    "arc": "Alabasta"
+  },
+  {
+    "animeStarts": 113,
+    "animeEnds": 113,
+    "mangaStarts": 182,
+    "mangaEnds": 184,
+    "extraChapter": "",
+    "arc": "Alabasta"
+  },
+  {
+    "animeStarts": 114,
+    "animeEnds": 114,
+    "mangaStarts": 184,
+    "mangaEnds": 186,
+    "extraChapter": "",
+    "arc": "Alabasta"
+  },
+  {
+    "animeStarts": 115,
+    "animeEnds": 115,
+    "mangaStarts": 186,
+    "mangaEnds": 188,
+    "extraChapter": "",
+    "arc": "Alabasta"
+  },
+  {
+    "animeStarts": 116,
+    "animeEnds": 116,
+    "mangaStarts": 188,
+    "mangaEnds": 190,
+    "extraChapter": "",
+    "arc": "Alabasta"
+  },
+  {
+    "animeStarts": 117,
+    "animeEnds": 117,
+    "mangaStarts": 190,
+    "mangaEnds": 192,
+    "extraChapter": "",
+    "arc": "Alabasta"
+  },
+  {
+    "animeStarts": 118,
+    "animeEnds": 118,
+    "mangaStarts": 192,
+    "mangaEnds": 193,
+    "extraChapter": "",
+    "arc": "Alabasta"
+  },
+  {
+    "animeStarts": 119,
+    "animeEnds": 119,
+    "mangaStarts": 194,
+    "mangaEnds": 195,
+    "extraChapter": "",
+    "arc": "Alabasta"
+  },
+  {
+    "animeStarts": 120,
+    "animeEnds": 120,
+    "mangaStarts": 196,
+    "mangaEnds": 197,
+    "extraChapter": "",
+    "arc": "Alabasta"
+  },
+  {
+    "animeStarts": 121,
+    "animeEnds": 121,
+    "mangaStarts": 198,
+    "mangaEnds": 199,
+    "extraChapter": "",
+    "arc": "Alabasta"
+  },
+  {
+    "animeStarts": 122,
+    "animeEnds": 122,
+    "mangaStarts": 200,
+    "mangaEnds": 201,
+    "extraChapter": "",
+    "arc": "Alabasta"
+  },
+  {
+    "animeStarts": 123,
+    "animeEnds": 123,
+    "mangaStarts": 202,
+    "mangaEnds": 203,
+    "extraChapter": "",
+    "arc": "Alabasta"
+  },
+  {
+    "animeStarts": 124,
+    "animeEnds": 124,
+    "mangaStarts": 204,
+    "mangaEnds": 205,
+    "extraChapter": "",
+    "arc": "Alabasta"
+  },
+  {
+    "animeStarts": 125,
+    "animeEnds": 125,
+    "mangaStarts": 206,
+    "mangaEnds": 208,
+    "extraChapter": "",
+    "arc": "Alabasta"
+  },
+  {
+    "animeStarts": 126,
+    "animeEnds": 126,
+    "mangaStarts": 208,
+    "mangaEnds": 210,
+    "extraChapter": "",
+    "arc": "Alabasta"
+  },
+  {
+    "animeStarts": 127,
+    "animeEnds": 127,
+    "mangaStarts": 211,
+    "mangaEnds": 212,
+    "extraChapter": "",
+    "arc": "Alabasta"
+  },
+  {
+    "animeStarts": 128,
+    "animeEnds": 128,
+    "mangaStarts": 213,
+    "mangaEnds": 214,
+    "extraChapter": "",
+    "arc": "Alabasta"
+  },
+  {
+    "animeStarts": 129,
+    "animeEnds": 129,
+    "mangaStarts": 215,
+    "mangaEnds": 216,
+    "extraChapter": "",
+    "arc": "Alabasta"
+  },
+  {
+    "animeStarts": 130,
+    "animeEnds": 130,
+    "mangaStarts": 217,
+    "mangaEnds": 218,
+    "extraChapter": "",
+    "arc": "Alabasta"
+  },
+  {
+    "animeStarts": 131,
+    "animeEnds": 131,
+    "mangaStarts": "Filler",
+    "mangaEnds": "Filler",
+    "extraChapter": "",
+    "arc": "Post-Alabasta"
+  },
+  {
+    "animeStarts": 132,
+    "animeEnds": 132,
+    "mangaStarts": "Filler",
+    "mangaEnds": "Filler",
+    "extraChapter": "",
+    "arc": "Post-Alabasta"
+  },
+  {
+    "animeStarts": 133,
+    "animeEnds": 133,
+    "mangaStarts": "Filler",
+    "mangaEnds": "Filler",
+    "extraChapter": "",
+    "arc": "Post-Alabasta"
+  },
+  {
+    "animeStarts": 134,
+    "animeEnds": 134,
+    "mangaStarts": "Filler",
+    "mangaEnds": "Filler",
+    "extraChapter": "",
+    "arc": "Post-Alabasta"
+  },
+  {
+    "animeStarts": 135,
+    "animeEnds": 135,
+    "mangaStarts": "Filler",
+    "mangaEnds": "Filler",
+    "extraChapter": "",
+    "arc": "Post-Alabasta"
+  },
+  {
+    "animeStarts": 136,
+    "animeEnds": 136,
+    "mangaStarts": "Filler",
+    "mangaEnds": "Filler",
+    "extraChapter": "",
+    "arc": "Post-Alabasta"
+  },
+  {
+    "animeStarts": 137,
+    "animeEnds": 137,
+    "mangaStarts": "Filler",
+    "mangaEnds": "Filler",
+    "extraChapter": "",
+    "arc": "Post-Alabasta"
+  },
+  {
+    "animeStarts": 138,
+    "animeEnds": 138,
+    "mangaStarts": "Filler",
+    "mangaEnds": "Filler",
+    "extraChapter": "",
+    "arc": "Post-Alabasta"
+  },
+  {
+    "animeStarts": 139,
+    "animeEnds": 139,
+    "mangaStarts": "Filler",
+    "mangaEnds": "Filler",
+    "extraChapter": "",
+    "arc": "Post-Alabasta"
+  },
+  {
+    "animeStarts": 140,
+    "animeEnds": 140,
+    "mangaStarts": "Filler",
+    "mangaEnds": "Filler",
+    "extraChapter": "",
+    "arc": "Post-Alabasta"
+  },
+  {
+    "animeStarts": 141,
+    "animeEnds": 141,
+    "mangaStarts": "Filler",
+    "mangaEnds": "Filler",
+    "extraChapter": "",
+    "arc": "Post-Alabasta"
+  },
+  {
+    "animeStarts": 142,
+    "animeEnds": 142,
+    "mangaStarts": "Filler",
+    "mangaEnds": "Filler",
+    "extraChapter": "",
+    "arc": "Post-Alabasta"
+  },
+  {
+    "animeStarts": 142,
+    "animeEnds": 142,
+    "mangaStarts": "Filler",
+    "mangaEnds": "Filler",
+    "extraChapter": "",
+    "arc": "Post-Alabasta"
+  },
+  {
+    "animeStarts": "",
+    "animeEnds": "",
+    "mangaStarts": "",
+    "mangaEnds": "",
+    "extraChapter": "",
+    "arc": ""
+  },
+  {
+    "animeStarts": 143,
+    "animeEnds": 143,
+    "mangaStarts": 218,
+    "mangaEnds": 218,
+    "extraChapter": "",
+    "arc": "Post-Alabasta"
+  },
+  {
+    "animeStarts": 144,
+    "animeEnds": 144,
+    "mangaStarts": 218,
+    "mangaEnds": 220,
+    "extraChapter": "",
+    "arc": "Post-Alabasta"
+  },
+  {
+    "animeStarts": 145,
+    "animeEnds": 145,
+    "mangaStarts": 221,
+    "mangaEnds": 221,
+    "extraChapter": "",
+    "arc": "Skypiea Saga"
+  },
+  {
+    "animeStarts": 146,
+    "animeEnds": 146,
+    "mangaStarts": 222,
+    "mangaEnds": 224,
+    "extraChapter": "",
+    "arc": "Skypiea Saga"
+  },
+  {
+    "animeStarts": 147,
+    "animeEnds": 147,
+    "mangaStarts": 225,
+    "mangaEnds": 226,
+    "extraChapter": "",
+    "arc": "Skypiea Saga"
+  },
+  {
+    "animeStarts": 148,
+    "animeEnds": 148,
+    "mangaStarts": 227,
+    "mangaEnds": 228,
+    "extraChapter": "",
+    "arc": "Skypiea Saga"
+  },
+  {
+    "animeStarts": 149,
+    "animeEnds": 149,
+    "mangaStarts": 229,
+    "mangaEnds": 230,
+    "extraChapter": "",
+    "arc": "Skypiea Saga"
+  },
+  {
+    "animeStarts": 150,
+    "animeEnds": 150,
+    "mangaStarts": 231,
+    "mangaEnds": 232,
+    "extraChapter": "",
+    "arc": "Skypiea Saga"
+  },
+  {
+    "animeStarts": 151,
+    "animeEnds": 151,
+    "mangaStarts": 232,
+    "mangaEnds": 234,
+    "extraChapter": "",
+    "arc": "Skypiea Saga"
+  },
+  {
+    "animeStarts": 152,
+    "animeEnds": 152,
+    "mangaStarts": 235,
+    "mangaEnds": 236,
+    "extraChapter": "",
+    "arc": "Skypiea Saga"
+  },
+  {
+    "animeStarts": 153,
+    "animeEnds": 153,
+    "mangaStarts": 237,
+    "mangaEnds": 238,
+    "extraChapter": "",
+    "arc": "Skypiea Saga"
+  },
+  {
+    "animeStarts": 154,
+    "animeEnds": 154,
+    "mangaStarts": 239,
+    "mangaEnds": 240,
+    "extraChapter": "",
+    "arc": "Skypiea"
+  },
+  {
+    "animeStarts": 155,
+    "animeEnds": 155,
+    "mangaStarts": 241,
+    "mangaEnds": 241,
+    "extraChapter": "",
+    "arc": "Skypiea"
+  },
+  {
+    "animeStarts": 156,
+    "animeEnds": 156,
+    "mangaStarts": 242,
+    "mangaEnds": 242,
+    "extraChapter": "",
+    "arc": "Skypiea"
+  },
+  {
+    "animeStarts": 157,
+    "animeEnds": 157,
+    "mangaStarts": 243,
+    "mangaEnds": 243,
+    "extraChapter": "",
+    "arc": "Skypiea"
+  },
+  {
+    "animeStarts": 158,
+    "animeEnds": 158,
+    "mangaStarts": 244,
+    "mangaEnds": 244,
+    "extraChapter": "",
+    "arc": "Skypiea"
+  },
+  {
+    "animeStarts": 159,
+    "animeEnds": 159,
+    "mangaStarts": 245,
+    "mangaEnds": 245,
+    "extraChapter": "",
+    "arc": "Skypiea"
+  },
+  {
+    "animeStarts": 160,
+    "animeEnds": 160,
+    "mangaStarts": 246,
+    "mangaEnds": 247,
+    "extraChapter": "",
+    "arc": "Skypiea"
+  },
+  {
+    "animeStarts": 161,
+    "animeEnds": 161,
+    "mangaStarts": 247,
+    "mangaEnds": 247,
+    "extraChapter": "",
+    "arc": "Skypiea"
+  },
+  {
+    "animeStarts": 162,
+    "animeEnds": 162,
+    "mangaStarts": 248,
+    "mangaEnds": 249,
+    "extraChapter": "",
+    "arc": "Skypiea"
+  },
+  {
+    "animeStarts": 163,
+    "animeEnds": 163,
+    "mangaStarts": 249,
+    "mangaEnds": 250,
+    "extraChapter": "",
+    "arc": "Skypiea"
+  },
+  {
+    "animeStarts": 164,
+    "animeEnds": 164,
+    "mangaStarts": 251,
+    "mangaEnds": 251,
+    "extraChapter": "",
+    "arc": "Skypiea"
+  },
+  {
+    "animeStarts": 165,
+    "animeEnds": 165,
+    "mangaStarts": 252,
+    "mangaEnds": 252,
+    "extraChapter": "",
+    "arc": "Skypiea"
+  },
+  {
+    "animeStarts": 166,
+    "animeEnds": 166,
+    "mangaStarts": 253,
+    "mangaEnds": 253,
+    "extraChapter": "",
+    "arc": "Skypiea"
+  },
+  {
+    "animeStarts": 167,
+    "animeEnds": 167,
+    "mangaStarts": 254,
+    "mangaEnds": 254,
+    "extraChapter": "",
+    "arc": "Skypiea"
+  },
+  {
+    "animeStarts": 168,
+    "animeEnds": 168,
+    "mangaStarts": 255,
+    "mangaEnds": 256,
+    "extraChapter": "",
+    "arc": "Skypiea"
+  },
+  {
+    "animeStarts": 169,
+    "animeEnds": 169,
+    "mangaStarts": 256,
+    "mangaEnds": 258,
+    "extraChapter": "",
+    "arc": "Skypiea"
+  },
+  {
+    "animeStarts": 170,
+    "animeEnds": 170,
+    "mangaStarts": 258,
+    "mangaEnds": 259,
+    "extraChapter": "",
+    "arc": "Skypiea"
+  },
+  {
+    "animeStarts": 171,
+    "animeEnds": 171,
+    "mangaStarts": 260,
+    "mangaEnds": 261,
+    "extraChapter": "",
+    "arc": "Skypiea"
+  },
+  {
+    "animeStarts": 172,
+    "animeEnds": 172,
+    "mangaStarts": 261,
+    "mangaEnds": 263,
+    "extraChapter": "",
+    "arc": "Skypiea"
+  },
+  {
+    "animeStarts": 173,
+    "animeEnds": 173,
+    "mangaStarts": 263,
+    "mangaEnds": 264,
+    "extraChapter": "",
+    "arc": "Skypiea"
+  },
+  {
+    "animeStarts": 174,
+    "animeEnds": 174,
+    "mangaStarts": 263,
+    "mangaEnds": 266,
+    "extraChapter": "268,272",
+    "arc": "Skypiea"
+  },
+  {
+    "animeStarts": 175,
+    "animeEnds": 175,
+    "mangaStarts": 266,
+    "mangaEnds": 267,
+    "extraChapter": "",
+    "arc": "Skypiea"
+  },
+  {
+    "animeStarts": 176,
+    "animeEnds": 176,
+    "mangaStarts": 268,
+    "mangaEnds": 268,
+    "extraChapter": "15,269",
+    "arc": "Skypiea"
+  },
+  {
+    "animeStarts": 177,
+    "animeEnds": 177,
+    "mangaStarts": 270,
+    "mangaEnds": 271,
+    "extraChapter": "",
+    "arc": "Skypiea"
+  },
+  {
+    "animeStarts": 178,
+    "animeEnds": 178,
+    "mangaStarts": 271,
+    "mangaEnds": 272,
+    "extraChapter": "",
+    "arc": "Skypiea"
+  },
+  {
+    "animeStarts": 179,
+    "animeEnds": 179,
+    "mangaStarts": 272,
+    "mangaEnds": 273,
+    "extraChapter": "",
+    "arc": "Skypiea"
+  },
+  {
+    "animeStarts": 180,
+    "animeEnds": 180,
+    "mangaStarts": 274,
+    "mangaEnds": 275,
+    "extraChapter": "",
+    "arc": "Skypiea"
+  },
+  {
+    "animeStarts": 181,
+    "animeEnds": 181,
+    "mangaStarts": 275,
+    "mangaEnds": 277,
+    "extraChapter": "",
+    "arc": "Skypiea"
+  },
+  {
+    "animeStarts": 182,
+    "animeEnds": 182,
+    "mangaStarts": 276,
+    "mangaEnds": 279,
+    "extraChapter": "",
+    "arc": "Skypiea"
+  },
+  {
+    "animeStarts": 183,
+    "animeEnds": 183,
+    "mangaStarts": 280,
+    "mangaEnds": 281,
+    "extraChapter": "",
+    "arc": "Skypiea"
+  },
+  {
+    "animeStarts": 184,
+    "animeEnds": 184,
+    "mangaStarts": 282,
+    "mangaEnds": 283,
+    "extraChapter": "",
+    "arc": "Skypiea"
+  },
+  {
+    "animeStarts": 185,
+    "animeEnds": 185,
+    "mangaStarts": 283,
+    "mangaEnds": 284,
+    "extraChapter": "",
+    "arc": "Skypiea"
+  },
+  {
+    "animeStarts": 186,
+    "animeEnds": 186,
+    "mangaStarts": 284,
+    "mangaEnds": 286,
+    "extraChapter": "",
+    "arc": "Skypiea"
+  },
+  {
+    "animeStarts": 187,
+    "animeEnds": 187,
+    "mangaStarts": 286,
+    "mangaEnds": 288,
+    "extraChapter": "",
+    "arc": "Skypiea"
+  },
+  {
+    "animeStarts": 188,
+    "animeEnds": 188,
+    "mangaStarts": 289,
+    "mangaEnds": 291,
+    "extraChapter": "",
+    "arc": "Skypiea"
+  },
+  {
+    "animeStarts": 189,
+    "animeEnds": 189,
+    "mangaStarts": 291,
+    "mangaEnds": 293,
+    "extraChapter": "",
+    "arc": "Skypiea"
+  },
+  {
+    "animeStarts": 190,
+    "animeEnds": 190,
+    "mangaStarts": 294,
+    "mangaEnds": 295,
+    "extraChapter": "",
+    "arc": "Skypiea"
+  },
+  {
+    "animeStarts": 191,
+    "animeEnds": 191,
+    "mangaStarts": 295,
+    "mangaEnds": 297,
+    "extraChapter": "",
+    "arc": "Skypiea"
+  },
+  {
+    "animeStarts": 192,
+    "animeEnds": 192,
+    "mangaStarts": 297,
+    "mangaEnds": 298,
+    "extraChapter": "",
+    "arc": "Skypiea"
+  },
+  {
+    "animeStarts": 193,
+    "animeEnds": 193,
+    "mangaStarts": 299,
+    "mangaEnds": 300,
+    "extraChapter": "",
+    "arc": "Skypiea"
+  },
+  {
+    "animeStarts": 194,
+    "animeEnds": 194,
+    "mangaStarts": 301,
+    "mangaEnds": 301,
+    "extraChapter": "",
+    "arc": "Skypiea"
+  },
+  {
+    "animeStarts": 195,
+    "animeEnds": 195,
+    "mangaStarts": 302,
+    "mangaEnds": 303,
+    "extraChapter": "",
+    "arc": "Skypiea"
+  },
+  {
+    "animeStarts": "",
+    "animeEnds": "",
+    "mangaStarts": "",
+    "mangaEnds": "",
+    "extraChapter": "",
+    "arc": ""
+  },
+  {
+    "animeStarts": 196,
+    "animeEnds": 196,
+    "mangaStarts": "Filler",
+    "mangaEnds": "Filler",
+    "extraChapter": "",
+    "arc": "G-8"
+  },
+  {
+    "animeStarts": 197,
+    "animeEnds": 197,
+    "mangaStarts": "Filler",
+    "mangaEnds": "Filler",
+    "extraChapter": "",
+    "arc": "G-8"
+  },
+  {
+    "animeStarts": 198,
+    "animeEnds": 198,
+    "mangaStarts": "Filler",
+    "mangaEnds": "Filler",
+    "extraChapter": "",
+    "arc": "G-8"
+  },
+  {
+    "animeStarts": 199,
+    "animeEnds": 199,
+    "mangaStarts": "Filler",
+    "mangaEnds": "Filler",
+    "extraChapter": "",
+    "arc": "G-8"
+  },
+  {
+    "animeStarts": 200,
+    "animeEnds": 200,
+    "mangaStarts": "Filler",
+    "mangaEnds": "Filler",
+    "extraChapter": "",
+    "arc": "G-8"
+  },
+  {
+    "animeStarts": 201,
+    "animeEnds": 201,
+    "mangaStarts": "Filler",
+    "mangaEnds": "Filler",
+    "extraChapter": "",
+    "arc": "G-8"
+  },
+  {
+    "animeStarts": 202,
+    "animeEnds": 202,
+    "mangaStarts": "Filler",
+    "mangaEnds": "Filler",
+    "extraChapter": "",
+    "arc": "G-8"
+  },
+  {
+    "animeStarts": 203,
+    "animeEnds": 203,
+    "mangaStarts": 303,
+    "mangaEnds": 303,
+    "extraChapter": "",
+    "arc": "G-8"
+  },
+  {
+    "animeStarts": 204,
+    "animeEnds": 204,
+    "mangaStarts": "Filler",
+    "mangaEnds": "Filler",
+    "extraChapter": "",
+    "arc": "G-8"
+  },
+  {
+    "animeStarts": 205,
+    "animeEnds": 205,
+    "mangaStarts": "Filler",
+    "mangaEnds": "Filler",
+    "extraChapter": "",
+    "arc": "G-8"
+  },
+  {
+    "animeStarts": 206,
+    "animeEnds": 206,
+    "mangaStarts": "Filler",
+    "mangaEnds": "Filler",
+    "extraChapter": "",
+    "arc": "G-8"
+  },
+  {
+    "animeStarts": "",
+    "animeEnds": "",
+    "mangaStarts": "",
+    "mangaEnds": "",
+    "extraChapter": "",
+    "arc": ""
+  },
+  {
+    "animeStarts": 207,
+    "animeEnds": 207,
+    "mangaStarts": 303,
+    "mangaEnds": 305,
+    "extraChapter": "",
+    "arc": "Long Ring Long Land"
+  },
+  {
+    "animeStarts": 208,
+    "animeEnds": 208,
+    "mangaStarts": 305,
+    "mangaEnds": 306,
+    "extraChapter": "",
+    "arc": "Long Ring Long Land"
+  },
+  {
+    "animeStarts": 209,
+    "animeEnds": 209,
+    "mangaStarts": 306,
+    "mangaEnds": 307,
+    "extraChapter": "",
+    "arc": "Long Ring Long Land"
+  },
+  {
+    "animeStarts": 210,
+    "animeEnds": 210,
+    "mangaStarts": 308,
+    "mangaEnds": 309,
+    "extraChapter": "",
+    "arc": "Long Ring Long Land"
+  },
+  {
+    "animeStarts": 211,
+    "animeEnds": 211,
+    "mangaStarts": 310,
+    "mangaEnds": 311,
+    "extraChapter": "",
+    "arc": "Long Ring Long Land"
+  },
+  {
+    "animeStarts": 212,
+    "animeEnds": 212,
+    "mangaStarts": 312,
+    "mangaEnds": 313,
+    "extraChapter": "",
+    "arc": "Long Ring Long Land"
+  },
+  {
+    "animeStarts": 213,
+    "animeEnds": 213,
+    "mangaStarts": "Filler",
+    "mangaEnds": "Filler",
+    "extraChapter": "",
+    "arc": "Long Ring Long Land"
+  },
+  {
+    "animeStarts": 214,
+    "animeEnds": 214,
+    "mangaStarts": 313,
+    "mangaEnds": 313,
+    "extraChapter": "",
+    "arc": "Long Ring Long Land"
+  },
+  {
+    "animeStarts": 215,
+    "animeEnds": 215,
+    "mangaStarts": "Filler",
+    "mangaEnds": "Filler",
+    "extraChapter": "",
+    "arc": "Long Ring Long Land"
+  },
+  {
+    "animeStarts": 216,
+    "animeEnds": 216,
+    "mangaStarts": 313,
+    "mangaEnds": 313,
+    "extraChapter": "",
+    "arc": "Long Ring Long Land"
+  },
+  {
+    "animeStarts": 217,
+    "animeEnds": 217,
+    "mangaStarts": 313,
+    "mangaEnds": 314,
+    "extraChapter": "",
+    "arc": "Long Ring Long Land"
+  },
+  {
+    "animeStarts": 218,
+    "animeEnds": 218,
+    "mangaStarts": 315,
+    "mangaEnds": 316,
+    "extraChapter": "",
+    "arc": "Long Ring Long Land"
+  },
+  {
+    "animeStarts": 219,
+    "animeEnds": 219,
+    "mangaStarts": 317,
+    "mangaEnds": 318,
+    "extraChapter": "",
+    "arc": "Long Ring Long Land"
+  },
+  {
+    "animeStarts": 220,
+    "animeEnds": 220,
+    "mangaStarts": "Filler",
+    "mangaEnds": "Filler",
+    "extraChapter": "",
+    "arc": "Long Ring Long Land"
+  },
+  {
+    "animeStarts": 221,
+    "animeEnds": 221,
+    "mangaStarts": "Filler",
+    "mangaEnds": "Filler",
+    "extraChapter": "",
+    "arc": "Long Ring Long Land"
+  },
+  {
+    "animeStarts": 222,
+    "animeEnds": 222,
+    "mangaStarts": "Filler",
+    "mangaEnds": "Filler",
+    "extraChapter": "",
+    "arc": "Long Ring Long Land"
+  },
+  {
+    "animeStarts": 223,
+    "animeEnds": 223,
+    "mangaStarts": "Filler",
+    "mangaEnds": "Filler",
+    "extraChapter": "",
+    "arc": "Long Ring Long Land"
+  },
+  {
+    "animeStarts": 224,
+    "animeEnds": 224,
+    "mangaStarts": "Filler",
+    "mangaEnds": "Filler",
+    "extraChapter": "",
+    "arc": "Long Ring Long Land"
+  },
+  {
+    "animeStarts": 225,
+    "animeEnds": 225,
+    "mangaStarts": 303,
+    "mangaEnds": 303,
+    "extraChapter": "",
+    "arc": "Long Ring Long Land"
+  },
+  {
+    "animeStarts": 226,
+    "animeEnds": 226,
+    "mangaStarts": 318,
+    "mangaEnds": 318,
+    "extraChapter": "",
+    "arc": "Long Ring Long Land"
+  },
+  {
+    "animeStarts": "",
+    "animeEnds": "",
+    "mangaStarts": "",
+    "mangaEnds": "",
+    "extraChapter": "",
+    "arc": ""
+  },
+  {
+    "animeStarts": 227,
+    "animeEnds": 227,
+    "mangaStarts": 319,
+    "mangaEnds": 320,
+    "extraChapter": "",
+    "arc": "Water 7"
+  },
+  {
+    "animeStarts": 228,
+    "animeEnds": 228,
+    "mangaStarts": 320,
+    "mangaEnds": 322,
+    "extraChapter": "",
+    "arc": "Water 7"
+  },
+  {
+    "animeStarts": 229,
+    "animeEnds": 229,
+    "mangaStarts": 322,
+    "mangaEnds": 324,
+    "extraChapter": "",
+    "arc": "Water 7"
+  },
+  {
+    "animeStarts": 230,
+    "animeEnds": 230,
+    "mangaStarts": 323,
+    "mangaEnds": 325,
+    "extraChapter": "",
+    "arc": "Water 7"
+  },
+  {
+    "animeStarts": 231,
+    "animeEnds": 231,
+    "mangaStarts": 325,
+    "mangaEnds": 326,
+    "extraChapter": "",
+    "arc": "Water 7"
+  },
+  {
+    "animeStarts": 232,
+    "animeEnds": 232,
+    "mangaStarts": 326,
+    "mangaEnds": 327,
+    "extraChapter": "",
+    "arc": "Water 7"
+  },
+  {
+    "animeStarts": 233,
+    "animeEnds": 233,
+    "mangaStarts": 328,
+    "mangaEnds": 329,
+    "extraChapter": "",
+    "arc": "Water 7"
+  },
+  {
+    "animeStarts": 234,
+    "animeEnds": 234,
+    "mangaStarts": 329,
+    "mangaEnds": 331,
+    "extraChapter": "",
+    "arc": "Water 7"
+  },
+  {
+    "animeStarts": 235,
+    "animeEnds": 235,
+    "mangaStarts": 331,
+    "mangaEnds": 332,
+    "extraChapter": "",
+    "arc": "Water 7"
+  },
+  {
+    "animeStarts": 236,
+    "animeEnds": 236,
+    "mangaStarts": 332,
+    "mangaEnds": 333,
+    "extraChapter": "",
+    "arc": "Water 7"
+  },
+  {
+    "animeStarts": 237,
+    "animeEnds": 237,
+    "mangaStarts": 334,
+    "mangaEnds": 335,
+    "extraChapter": "",
+    "arc": "Water 7"
+  },
+  {
+    "animeStarts": 238,
+    "animeEnds": 238,
+    "mangaStarts": 335,
+    "mangaEnds": 337,
+    "extraChapter": "",
+    "arc": "Water 7"
+  },
+  {
+    "animeStarts": 239,
+    "animeEnds": 239,
+    "mangaStarts": 337,
+    "mangaEnds": 339,
+    "extraChapter": "",
+    "arc": "Water 7"
+  },
+  {
+    "animeStarts": 240,
+    "animeEnds": 240,
+    "mangaStarts": 339,
+    "mangaEnds": 340,
+    "extraChapter": "",
+    "arc": "Water 7"
+  },
+  {
+    "animeStarts": 241,
+    "animeEnds": 241,
+    "mangaStarts": 340,
+    "mangaEnds": 342,
+    "extraChapter": "",
+    "arc": "Water 7"
+  },
+  {
+    "animeStarts": 242,
+    "animeEnds": 242,
+    "mangaStarts": 340,
+    "mangaEnds": 342,
+    "extraChapter": "",
+    "arc": "Water 7"
+  },
+  {
+    "animeStarts": 243,
+    "animeEnds": 243,
+    "mangaStarts": 343,
+    "mangaEnds": 345,
+    "extraChapter": "",
+    "arc": "Water 7"
+  },
+  {
+    "animeStarts": 244,
+    "animeEnds": 244,
+    "mangaStarts": 346,
+    "mangaEnds": 346,
+    "extraChapter": "",
+    "arc": "Water 7"
+  },
+  {
+    "animeStarts": 245,
+    "animeEnds": 245,
+    "mangaStarts": 347,
+    "mangaEnds": 348,
+    "extraChapter": "",
+    "arc": "Water 7"
+  },
+  {
+    "animeStarts": 246,
+    "animeEnds": 246,
+    "mangaStarts": 349,
+    "mangaEnds": 350,
+    "extraChapter": "",
+    "arc": "Water 7"
+  },
+  {
+    "animeStarts": 247,
+    "animeEnds": 247,
+    "mangaStarts": 350,
+    "mangaEnds": 352,
+    "extraChapter": "",
+    "arc": "Water 7"
+  },
+  {
+    "animeStarts": 248,
+    "animeEnds": 248,
+    "mangaStarts": 352,
+    "mangaEnds": 354,
+    "extraChapter": "",
+    "arc": "Water 7"
+  },
+  {
+    "animeStarts": 249,
+    "animeEnds": 249,
+    "mangaStarts": 353,
+    "mangaEnds": 356,
+    "extraChapter": "",
+    "arc": "Water 7"
+  },
+  {
+    "animeStarts": 250,
+    "animeEnds": 250,
+    "mangaStarts": 356,
+    "mangaEnds": 358,
+    "extraChapter": "",
+    "arc": "Water 7"
+  },
+  {
+    "animeStarts": 251,
+    "animeEnds": 251,
+    "mangaStarts": 358,
+    "mangaEnds": 359,
+    "extraChapter": "",
+    "arc": "Water 7"
+  },
+  {
+    "animeStarts": 252,
+    "animeEnds": 252,
+    "mangaStarts": 360,
+    "mangaEnds": 361,
+    "extraChapter": "",
+    "arc": "Water 7"
+  },
+  {
+    "animeStarts": 253,
+    "animeEnds": 253,
+    "mangaStarts": 361,
+    "mangaEnds": 362,
+    "extraChapter": "",
+    "arc": "Water 7"
+  },
+  {
+    "animeStarts": 254,
+    "animeEnds": 254,
+    "mangaStarts": 363,
+    "mangaEnds": 365,
+    "extraChapter": "",
+    "arc": "Water 7"
+  },
+  {
+    "animeStarts": 255,
+    "animeEnds": 255,
+    "mangaStarts": 364,
+    "mangaEnds": 365,
+    "extraChapter": "",
+    "arc": "Water 7"
+  },
+  {
+    "animeStarts": 256,
+    "animeEnds": 256,
+    "mangaStarts": 358,
+    "mangaEnds": 358,
+    "extraChapter": 366,
+    "arc": "Water 7"
+  },
+  {
+    "animeStarts": 257,
+    "animeEnds": 257,
+    "mangaStarts": 366,
+    "mangaEnds": 367,
+    "extraChapter": "",
+    "arc": "Water 7"
+  },
+  {
+    "animeStarts": 258,
+    "animeEnds": 258,
+    "mangaStarts": 368,
+    "mangaEnds": 369,
+    "extraChapter": "",
+    "arc": "Water 7"
+  },
+  {
+    "animeStarts": 259,
+    "animeEnds": 259,
+    "mangaStarts": 369,
+    "mangaEnds": 370,
+    "extraChapter": "",
+    "arc": "Water 7"
+  },
+  {
+    "animeStarts": 260,
+    "animeEnds": 260,
+    "mangaStarts": 370,
+    "mangaEnds": 372,
+    "extraChapter": "",
+    "arc": "Water 7"
+  },
+  {
+    "animeStarts": 261,
+    "animeEnds": 261,
+    "mangaStarts": 371,
+    "mangaEnds": 373,
+    "extraChapter": "",
+    "arc": "Water 7"
+  },
+  {
+    "animeStarts": 262,
+    "animeEnds": 262,
+    "mangaStarts": 373,
+    "mangaEnds": 374,
+    "extraChapter": "",
+    "arc": "Water 7"
+  },
+  {
+    "animeStarts": 263,
+    "animeEnds": 263,
+    "mangaStarts": 374,
+    "mangaEnds": 375,
+    "extraChapter": "",
+    "arc": "Enies Lobby"
+  },
+  {
+    "animeStarts": 264,
+    "animeEnds": 264,
+    "mangaStarts": 375,
+    "mangaEnds": 376,
+    "extraChapter": "",
+    "arc": "Enies Lobby"
+  },
+  {
+    "animeStarts": 265,
+    "animeEnds": 265,
+    "mangaStarts": 376,
+    "mangaEnds": 377,
+    "extraChapter": 388,
+    "arc": "Enies Lobby"
+  },
+  {
+    "animeStarts": 266,
+    "animeEnds": 266,
+    "mangaStarts": 378,
+    "mangaEnds": 379,
+    "extraChapter": "",
+    "arc": "Enies Lobby"
+  },
+  {
+    "animeStarts": 267,
+    "animeEnds": 267,
+    "mangaStarts": 379,
+    "mangaEnds": 380,
+    "extraChapter": "",
+    "arc": "Enies Lobby"
+  },
+  {
+    "animeStarts": 268,
+    "animeEnds": 268,
+    "mangaStarts": 381,
+    "mangaEnds": 382,
+    "extraChapter": "",
+    "arc": "Enies Lobby"
+  },
+  {
+    "animeStarts": 269,
+    "animeEnds": 269,
+    "mangaStarts": 382,
+    "mangaEnds": 383,
+    "extraChapter": "",
+    "arc": "Enies Lobby"
+  },
+  {
+    "animeStarts": 270,
+    "animeEnds": 270,
+    "mangaStarts": 383,
+    "mangaEnds": 384,
+    "extraChapter": "",
+    "arc": "Enies Lobby"
+  },
+  {
+    "animeStarts": 271,
+    "animeEnds": 271,
+    "mangaStarts": 384,
+    "mangaEnds": 385,
+    "extraChapter": "",
+    "arc": "Enies Lobby"
+  },
+  {
+    "animeStarts": 272,
+    "animeEnds": 272,
+    "mangaStarts": 385,
+    "mangaEnds": 387,
+    "extraChapter": "",
+    "arc": "Enies Lobby"
+  },
+  {
+    "animeStarts": 273,
+    "animeEnds": 273,
+    "mangaStarts": 387,
+    "mangaEnds": 388,
+    "extraChapter": "",
+    "arc": "Enies Lobby"
+  },
+  {
+    "animeStarts": 274,
+    "animeEnds": 274,
+    "mangaStarts": 389,
+    "mangaEnds": 390,
+    "extraChapter": "",
+    "arc": "Enies Lobby"
+  },
+  {
+    "animeStarts": 275,
+    "animeEnds": 275,
+    "mangaStarts": 391,
+    "mangaEnds": 392,
+    "extraChapter": "",
+    "arc": "Enies Lobby"
+  },
+  {
+    "animeStarts": 276,
+    "animeEnds": 276,
+    "mangaStarts": 393,
+    "mangaEnds": 395,
+    "extraChapter": "",
+    "arc": "Enies Lobby"
+  },
+  {
+    "animeStarts": 277,
+    "animeEnds": 277,
+    "mangaStarts": 395,
+    "mangaEnds": 397,
+    "extraChapter": "",
+    "arc": "Enies Lobby"
+  },
+  {
+    "animeStarts": 278,
+    "animeEnds": 278,
+    "mangaStarts": 397,
+    "mangaEnds": 398,
+    "extraChapter": "",
+    "arc": "Enies Lobby"
+  },
+  {
+    "animeStarts": 279,
+    "animeEnds": 279,
+    "mangaStarts": "Filler",
+    "mangaEnds": "Filler",
+    "extraChapter": "",
+    "arc": "Enies Lobby"
+  },
+  {
+    "animeStarts": 280,
+    "animeEnds": 280,
+    "mangaStarts": "Filler",
+    "mangaEnds": "Filler",
+    "extraChapter": "",
+    "arc": "Enies Lobby"
+  },
+  {
+    "animeStarts": 281,
+    "animeEnds": 281,
+    "mangaStarts": "Filler",
+    "mangaEnds": "Filler",
+    "extraChapter": "",
+    "arc": "Enies Lobby"
+  },
+  {
+    "animeStarts": 282,
+    "animeEnds": 282,
+    "mangaStarts": "Filler",
+    "mangaEnds": "Filler",
+    "extraChapter": "",
+    "arc": "Enies Lobby"
+  },
+  {
+    "animeStarts": 283,
+    "animeEnds": 283,
+    "mangaStarts": "Filler",
+    "mangaEnds": "Filler",
+    "extraChapter": "",
+    "arc": "Enies Lobby"
+  },
+  {
+    "animeStarts": 284,
+    "animeEnds": 284,
+    "mangaStarts": 399,
+    "mangaEnds": 400,
+    "extraChapter": "",
+    "arc": "Enies Lobby"
+  },
+  {
+    "animeStarts": 285,
+    "animeEnds": 285,
+    "mangaStarts": 400,
+    "mangaEnds": 400,
+    "extraChapter": "",
+    "arc": "Enies Lobby"
+  },
+  {
+    "animeStarts": 286,
+    "animeEnds": 286,
+    "mangaStarts": 401,
+    "mangaEnds": 402,
+    "extraChapter": "",
+    "arc": "Enies Lobby"
+  },
+  {
+    "animeStarts": 287,
+    "animeEnds": 287,
+    "mangaStarts": 402,
+    "mangaEnds": 403,
+    "extraChapter": "",
+    "arc": "Enies Lobby"
+  },
+  {
+    "animeStarts": 288,
+    "animeEnds": 288,
+    "mangaStarts": 403,
+    "mangaEnds": 404,
+    "extraChapter": "",
+    "arc": "Enies Lobby"
+  },
+  {
+    "animeStarts": 289,
+    "animeEnds": 289,
+    "mangaStarts": 405,
+    "mangaEnds": 406,
+    "extraChapter": "",
+    "arc": "Enies Lobby"
+  },
+  {
+    "animeStarts": 290,
+    "animeEnds": 290,
+    "mangaStarts": 406,
+    "mangaEnds": 407,
+    "extraChapter": "",
+    "arc": "Enies Lobby"
+  },
+  {
+    "animeStarts": 291,
+    "animeEnds": 291,
+    "mangaStarts": "Filler",
+    "mangaEnds": "Filler",
+    "extraChapter": "",
+    "arc": "Post-Enies"
+  },
+  {
+    "animeStarts": 292,
+    "animeEnds": 292,
+    "mangaStarts": "Filler",
+    "mangaEnds": "Filler",
+    "extraChapter": "",
+    "arc": "Post-Enies"
+  },
+  {
+    "animeStarts": 293,
+    "animeEnds": 293,
+    "mangaStarts": 407,
+    "mangaEnds": 408,
+    "extraChapter": "",
+    "arc": "Post-Enies"
+  },
+  {
+    "animeStarts": 294,
+    "animeEnds": 294,
+    "mangaStarts": 409,
+    "mangaEnds": 409,
+    "extraChapter": "",
+    "arc": "Post-Enies"
+  },
+  {
+    "animeStarts": 295,
+    "animeEnds": 295,
+    "mangaStarts": 410,
+    "mangaEnds": 411,
+    "extraChapter": "",
+    "arc": "Post-Enies"
+  },
+  {
+    "animeStarts": 296,
+    "animeEnds": 296,
+    "mangaStarts": 411,
+    "mangaEnds": 412,
+    "extraChapter": "",
+    "arc": "Post-Enies"
+  },
+  {
+    "animeStarts": 297,
+    "animeEnds": 297,
+    "mangaStarts": 413,
+    "mangaEnds": 414,
+    "extraChapter": "",
+    "arc": "Post-Enies"
+  },
+  {
+    "animeStarts": 298,
+    "animeEnds": 298,
+    "mangaStarts": 414,
+    "mangaEnds": 416,
+    "extraChapter": "",
+    "arc": "Post-Enies"
+  },
+  {
+    "animeStarts": 299,
+    "animeEnds": 299,
+    "mangaStarts": 416,
+    "mangaEnds": 417,
+    "extraChapter": "",
+    "arc": "Post-Enies"
+  },
+  {
+    "animeStarts": 300,
+    "animeEnds": 300,
+    "mangaStarts": 417,
+    "mangaEnds": 418,
+    "extraChapter": "",
+    "arc": "Post-Enies"
+  },
+  {
+    "animeStarts": 301,
+    "animeEnds": 301,
+    "mangaStarts": 419,
+    "mangaEnds": 420,
+    "extraChapter": "",
+    "arc": "Post-Enies"
+  },
+  {
+    "animeStarts": 302,
+    "animeEnds": 302,
+    "mangaStarts": 420,
+    "mangaEnds": 420,
+    "extraChapter": "",
+    "arc": "Post-Enies"
+  },
+  {
+    "animeStarts": 303,
+    "animeEnds": 303,
+    "mangaStarts": "Filler",
+    "mangaEnds": "Filler",
+    "extraChapter": "",
+    "arc": "Post-Enies"
+  },
+  {
+    "animeStarts": 304,
+    "animeEnds": 304,
+    "mangaStarts": 421,
+    "mangaEnds": 421,
+    "extraChapter": "",
+    "arc": "Post-Enies"
+  },
+  {
+    "animeStarts": 305,
+    "animeEnds": 305,
+    "mangaStarts": 422,
+    "mangaEnds": 422,
+    "extraChapter": "",
+    "arc": "Post-Enies"
+  },
+  {
+    "animeStarts": 306,
+    "animeEnds": 306,
+    "mangaStarts": 423,
+    "mangaEnds": 424,
+    "extraChapter": "",
+    "arc": "Post-Enies"
+  },
+  {
+    "animeStarts": 307,
+    "animeEnds": 307,
+    "mangaStarts": 424,
+    "mangaEnds": 425,
+    "extraChapter": "",
+    "arc": "Post-Enies"
+  },
+  {
+    "animeStarts": 308,
+    "animeEnds": 308,
+    "mangaStarts": 425,
+    "mangaEnds": 426,
+    "extraChapter": "",
+    "arc": "Post-Enies"
+  },
+  {
+    "animeStarts": 309,
+    "animeEnds": 309,
+    "mangaStarts": 426,
+    "mangaEnds": 427,
+    "extraChapter": "",
+    "arc": "Post-Enies"
+  },
+  {
+    "animeStarts": 310,
+    "animeEnds": 310,
+    "mangaStarts": 428,
+    "mangaEnds": 428,
+    "extraChapter": "",
+    "arc": "Post-Enies"
+  },
+  {
+    "animeStarts": 311,
+    "animeEnds": 311,
+    "mangaStarts": 429,
+    "mangaEnds": 429,
+    "extraChapter": "",
+    "arc": "Post-Enies"
+  },
+  {
+    "animeStarts": 312,
+    "animeEnds": 312,
+    "mangaStarts": 430,
+    "mangaEnds": 430,
+    "extraChapter": "",
+    "arc": "Post-Enies"
+  },
+  {
+    "animeStarts": 313,
+    "animeEnds": 313,
+    "mangaStarts": 431,
+    "mangaEnds": 431,
+    "extraChapter": "",
+    "arc": "Post-Enies"
+  },
+  {
+    "animeStarts": 314,
+    "animeEnds": 314,
+    "mangaStarts": 432,
+    "mangaEnds": 432,
+    "extraChapter": "",
+    "arc": "Post-Enies"
+  },
+  {
+    "animeStarts": 315,
+    "animeEnds": 315,
+    "mangaStarts": 433,
+    "mangaEnds": 433,
+    "extraChapter": "",
+    "arc": "Post-Enies"
+  },
+  {
+    "animeStarts": 316,
+    "animeEnds": 316,
+    "mangaStarts": 433,
+    "mangaEnds": 435,
+    "extraChapter": "",
+    "arc": "Post-Enies"
+  },
+  {
+    "animeStarts": 317,
+    "animeEnds": 317,
+    "mangaStarts": "Filler",
+    "mangaEnds": "Filler",
+    "extraChapter": "",
+    "arc": "Post-Enies"
+  },
+  {
+    "animeStarts": 318,
+    "animeEnds": 318,
+    "mangaStarts": "Filler",
+    "mangaEnds": "Filler",
+    "extraChapter": "",
+    "arc": "Post-Enies"
+  },
+  {
+    "animeStarts": 319,
+    "animeEnds": 319,
+    "mangaStarts": 435,
+    "mangaEnds": 435,
+    "extraChapter": "",
+    "arc": "Post-Enies"
+  },
+  {
+    "animeStarts": 320,
+    "animeEnds": 320,
+    "mangaStarts": 358,
+    "mangaEnds": 358,
+    "extraChapter": 435,
+    "arc": "Post-Enies"
+  },
+  {
+    "animeStarts": 321,
+    "animeEnds": 321,
+    "mangaStarts": 436,
+    "mangaEnds": 436,
+    "extraChapter": "",
+    "arc": "Post-Enies"
+  },
+  {
+    "animeStarts": 322,
+    "animeEnds": 322,
+    "mangaStarts": 437,
+    "mangaEnds": 437,
+    "extraChapter": "",
+    "arc": "Post-Enies"
+  },
+  {
+    "animeStarts": 323,
+    "animeEnds": 323,
+    "mangaStarts": 438,
+    "mangaEnds": 438,
+    "extraChapter": "",
+    "arc": "Post-Enies"
+  },
+  {
+    "animeStarts": 324,
+    "animeEnds": 324,
+    "mangaStarts": 439,
+    "mangaEnds": 440,
+    "extraChapter": "",
+    "arc": "Post-Enies"
+  },
+  {
+    "animeStarts": 325,
+    "animeEnds": 325,
+    "mangaStarts": 434,
+    "mangaEnds": 434,
+    "extraChapter": "440,441",
+    "arc": "Post-Enies"
+  },
+  {
+    "animeStarts": 326,
+    "animeEnds": 326,
+    "mangaStarts": 442,
+    "mangaEnds": 442,
+    "extraChapter": "",
+    "arc": "Post-Enies"
+  },
+  {
+    "animeStarts": "",
+    "animeEnds": "",
+    "mangaStarts": "",
+    "mangaEnds": "",
+    "extraChapter": "",
+    "arc": ""
+  },
+  {
+    "animeStarts": 327,
+    "animeEnds": 327,
+    "mangaStarts": "Filler",
+    "mangaEnds": "Filler",
+    "extraChapter": "",
+    "arc": "Thriller Bark"
+  },
+  {
+    "animeStarts": 328,
+    "animeEnds": 328,
+    "mangaStarts": "Filler",
+    "mangaEnds": "Filler",
+    "extraChapter": "",
+    "arc": "Thriller Bark"
+  },
+  {
+    "animeStarts": 329,
+    "animeEnds": 329,
+    "mangaStarts": "Filler",
+    "mangaEnds": "Filler",
+    "extraChapter": "",
+    "arc": "Thriller Bark"
+  },
+  {
+    "animeStarts": 330,
+    "animeEnds": 330,
+    "mangaStarts": "Filler",
+    "mangaEnds": "Filler",
+    "extraChapter": "",
+    "arc": "Thriller Bark"
+  },
+  {
+    "animeStarts": 331,
+    "animeEnds": 331,
+    "mangaStarts": "Filler",
+    "mangaEnds": "Filler",
+    "extraChapter": "",
+    "arc": "Thriller Bark"
+  },
+  {
+    "animeStarts": 332,
+    "animeEnds": 332,
+    "mangaStarts": "Filler",
+    "mangaEnds": "Filler",
+    "extraChapter": "",
+    "arc": "Thriller Bark"
+  },
+  {
+    "animeStarts": 333,
+    "animeEnds": 333,
+    "mangaStarts": "Filler",
+    "mangaEnds": "Filler",
+    "extraChapter": "",
+    "arc": "Thriller Bark"
+  },
+  {
+    "animeStarts": 334,
+    "animeEnds": 334,
+    "mangaStarts": "Filler",
+    "mangaEnds": "Filler",
+    "extraChapter": "",
+    "arc": "Thriller Bark"
+  },
+  {
+    "animeStarts": 335,
+    "animeEnds": 335,
+    "mangaStarts": "Filler",
+    "mangaEnds": "Filler",
+    "extraChapter": "",
+    "arc": "Thriller Bark"
+  },
+  {
+    "animeStarts": 336,
+    "animeEnds": 336,
+    "mangaStarts": "Filler",
+    "mangaEnds": "Filler",
+    "extraChapter": "",
+    "arc": "Thriller Bark"
+  },
+  {
+    "animeStarts": "",
+    "animeEnds": "",
+    "mangaStarts": "",
+    "mangaEnds": "",
+    "extraChapter": "",
+    "arc": ""
+  },
+  {
+    "animeStarts": 337,
+    "animeEnds": 337,
+    "mangaStarts": 442,
+    "mangaEnds": 442,
+    "extraChapter": "",
+    "arc": "Thriller Bark"
+  },
+  {
+    "animeStarts": 338,
+    "animeEnds": 338,
+    "mangaStarts": 443,
+    "mangaEnds": 443,
+    "extraChapter": "",
+    "arc": "Thriller Bark"
+  },
+  {
+    "animeStarts": 339,
+    "animeEnds": 339,
+    "mangaStarts": 443,
+    "mangaEnds": 444,
+    "extraChapter": "",
+    "arc": "Thriller Bark"
+  },
+  {
+    "animeStarts": 340,
+    "animeEnds": 340,
+    "mangaStarts": 445,
+    "mangaEnds": 446,
+    "extraChapter": "",
+    "arc": "Thriller Bark"
+  },
+  {
+    "animeStarts": 341,
+    "animeEnds": 341,
+    "mangaStarts": 446,
+    "mangaEnds": 447,
+    "extraChapter": "",
+    "arc": "Thriller Bark"
+  },
+  {
+    "animeStarts": 342,
+    "animeEnds": 342,
+    "mangaStarts": 447,
+    "mangaEnds": 449,
+    "extraChapter": "",
+    "arc": "Thriller Bark"
+  },
+  {
+    "animeStarts": 343,
+    "animeEnds": 343,
+    "mangaStarts": 448,
+    "mangaEnds": 449,
+    "extraChapter": "",
+    "arc": "Thriller Bark"
+  },
+  {
+    "animeStarts": 344,
+    "animeEnds": 344,
+    "mangaStarts": 449,
+    "mangaEnds": 450,
+    "extraChapter": "",
+    "arc": "Thriller Bark"
+  },
+  {
+    "animeStarts": 345,
+    "animeEnds": 345,
+    "mangaStarts": 451,
+    "mangaEnds": 451,
+    "extraChapter": "",
+    "arc": "Thriller Bark"
+  },
+  {
+    "animeStarts": 346,
+    "animeEnds": 346,
+    "mangaStarts": 452,
+    "mangaEnds": 452,
+    "extraChapter": "",
+    "arc": "Thriller Bark"
+  },
+  {
+    "animeStarts": 347,
+    "animeEnds": 347,
+    "mangaStarts": 453,
+    "mangaEnds": 453,
+    "extraChapter": "",
+    "arc": "Thriller Bark"
+  },
+  {
+    "animeStarts": 348,
+    "animeEnds": 348,
+    "mangaStarts": 454,
+    "mangaEnds": 454,
+    "extraChapter": "",
+    "arc": "Thriller Bark"
+  },
+  {
+    "animeStarts": 349,
+    "animeEnds": 349,
+    "mangaStarts": 455,
+    "mangaEnds": 455,
+    "extraChapter": "",
+    "arc": "Thriller Bark"
+  },
+  {
+    "animeStarts": 350,
+    "animeEnds": 350,
+    "mangaStarts": 456,
+    "mangaEnds": 456,
+    "extraChapter": "",
+    "arc": "Thriller Bark"
+  },
+  {
+    "animeStarts": 351,
+    "animeEnds": 351,
+    "mangaStarts": 457,
+    "mangaEnds": 457,
+    "extraChapter": "",
+    "arc": "Thriller Bark"
+  },
+  {
+    "animeStarts": 352,
+    "animeEnds": 352,
+    "mangaStarts": 458,
+    "mangaEnds": 458,
+    "extraChapter": "",
+    "arc": "Thriller Bark"
+  },
+  {
+    "animeStarts": 353,
+    "animeEnds": 353,
+    "mangaStarts": 458,
+    "mangaEnds": 459,
+    "extraChapter": "",
+    "arc": "Thriller Bark"
+  },
+  {
+    "animeStarts": 354,
+    "animeEnds": 354,
+    "mangaStarts": 459,
+    "mangaEnds": 459,
+    "extraChapter": "",
+    "arc": "Thriller Bark"
+  },
+  {
+    "animeStarts": 355,
+    "animeEnds": 355,
+    "mangaStarts": 460,
+    "mangaEnds": 460,
+    "extraChapter": "",
+    "arc": "Thriller Bark"
+  },
+  {
+    "animeStarts": 356,
+    "animeEnds": 356,
+    "mangaStarts": 461,
+    "mangaEnds": 461,
+    "extraChapter": "",
+    "arc": "Thriller Bark"
+  },
+  {
+    "animeStarts": 357,
+    "animeEnds": 357,
+    "mangaStarts": 462,
+    "mangaEnds": 462,
+    "extraChapter": "",
+    "arc": "Thriller Bark"
+  },
+  {
+    "animeStarts": 358,
+    "animeEnds": 358,
+    "mangaStarts": 463,
+    "mangaEnds": 464,
+    "extraChapter": "",
+    "arc": "Thriller Bark"
+  },
+  {
+    "animeStarts": 359,
+    "animeEnds": 359,
+    "mangaStarts": 463,
+    "mangaEnds": 464,
+    "extraChapter": "",
+    "arc": "Thriller Bark"
+  },
+  {
+    "animeStarts": 360,
+    "animeEnds": 360,
+    "mangaStarts": 465,
+    "mangaEnds": 465,
+    "extraChapter": "",
+    "arc": "Thriller Bark"
+  },
+  {
+    "animeStarts": 361,
+    "animeEnds": 361,
+    "mangaStarts": 466,
+    "mangaEnds": 466,
+    "extraChapter": "",
+    "arc": "Thriller Bark"
+  },
+  {
+    "animeStarts": 362,
+    "animeEnds": 362,
+    "mangaStarts": 466,
+    "mangaEnds": 467,
+    "extraChapter": "",
+    "arc": "Thriller Bark"
+  },
+  {
+    "animeStarts": 363,
+    "animeEnds": 363,
+    "mangaStarts": 468,
+    "mangaEnds": 468,
+    "extraChapter": "",
+    "arc": "Thriller Bark"
+  },
+  {
+    "animeStarts": 364,
+    "animeEnds": 364,
+    "mangaStarts": 469,
+    "mangaEnds": 469,
+    "extraChapter": "",
+    "arc": "Thriller Bark"
+  },
+  {
+    "animeStarts": 365,
+    "animeEnds": 365,
+    "mangaStarts": 470,
+    "mangaEnds": 470,
+    "extraChapter": "",
+    "arc": "Thriller Bark"
+  },
+  {
+    "animeStarts": 366,
+    "animeEnds": 366,
+    "mangaStarts": 471,
+    "mangaEnds": 471,
+    "extraChapter": "",
+    "arc": "Thriller Bark"
+  },
+  {
+    "animeStarts": 367,
+    "animeEnds": 367,
+    "mangaStarts": 472,
+    "mangaEnds": 472,
+    "extraChapter": "",
+    "arc": "Thriller Bark"
+  },
+  {
+    "animeStarts": 368,
+    "animeEnds": 368,
+    "mangaStarts": 473,
+    "mangaEnds": 473,
+    "extraChapter": "",
+    "arc": "Thriller Bark"
+  },
+  {
+    "animeStarts": 369,
+    "animeEnds": 369,
+    "mangaStarts": 474,
+    "mangaEnds": 474,
+    "extraChapter": "",
+    "arc": "Thriller Bark"
+  },
+  {
+    "animeStarts": 370,
+    "animeEnds": 370,
+    "mangaStarts": 475,
+    "mangaEnds": 476,
+    "extraChapter": "",
+    "arc": "Thriller Bark"
+  },
+  {
+    "animeStarts": 371,
+    "animeEnds": 371,
+    "mangaStarts": 476,
+    "mangaEnds": 477,
+    "extraChapter": "",
+    "arc": "Thriller Bark"
+  },
+  {
+    "animeStarts": 372,
+    "animeEnds": 372,
+    "mangaStarts": 478,
+    "mangaEnds": 479,
+    "extraChapter": "",
+    "arc": "Thriller Bark"
+  },
+  {
+    "animeStarts": 373,
+    "animeEnds": 373,
+    "mangaStarts": 480,
+    "mangaEnds": 481,
+    "extraChapter": "",
+    "arc": "Thriller Bark"
+  },
+  {
+    "animeStarts": 374,
+    "animeEnds": 374,
+    "mangaStarts": 481,
+    "mangaEnds": 482,
+    "extraChapter": "",
+    "arc": "Thriller Bark"
+  },
+  {
+    "animeStarts": 375,
+    "animeEnds": 375,
+    "mangaStarts": 483,
+    "mangaEnds": 483,
+    "extraChapter": "",
+    "arc": "Thriller Bark"
+  },
+  {
+    "animeStarts": 376,
+    "animeEnds": 376,
+    "mangaStarts": 484,
+    "mangaEnds": 484,
+    "extraChapter": "",
+    "arc": "Thriller Bark"
+  },
+  {
+    "animeStarts": 377,
+    "animeEnds": 377,
+    "mangaStarts": 485,
+    "mangaEnds": 485,
+    "extraChapter": "",
+    "arc": "Thriller Bark"
+  },
+  {
+    "animeStarts": 378,
+    "animeEnds": 378,
+    "mangaStarts": 486,
+    "mangaEnds": 486,
+    "extraChapter": "",
+    "arc": "Thriller Bark"
+  },
+  {
+    "animeStarts": 379,
+    "animeEnds": 379,
+    "mangaStarts": 487,
+    "mangaEnds": 487,
+    "extraChapter": "",
+    "arc": "Thriller Bark"
+  },
+  {
+    "animeStarts": 380,
+    "animeEnds": 380,
+    "mangaStarts": 487,
+    "mangaEnds": 488,
+    "extraChapter": "",
+    "arc": "Thriller Bark"
+  },
+  {
+    "animeStarts": 381,
+    "animeEnds": 381,
+    "mangaStarts": 489,
+    "mangaEnds": 490,
+    "extraChapter": "",
+    "arc": "Thriller Bark"
+  },
+  {
+    "animeStarts": "",
+    "animeEnds": "",
+    "mangaStarts": "",
+    "mangaEnds": "",
+    "extraChapter": "",
+    "arc": ""
+  },
+  {
+    "animeStarts": 382,
+    "animeEnds": 382,
+    "mangaStarts": "Filler",
+    "mangaEnds": "Filler",
+    "extraChapter": "",
+    "arc": "Sabaody"
+  },
+  {
+    "animeStarts": 383,
+    "animeEnds": 383,
+    "mangaStarts": "Filler",
+    "mangaEnds": "Filler",
+    "extraChapter": "",
+    "arc": "Sabaody"
+  },
+  {
+    "animeStarts": 384,
+    "animeEnds": 384,
+    "mangaStarts": "Filler",
+    "mangaEnds": "Filler",
+    "extraChapter": "",
+    "arc": "Sabaody"
+  },
+  {
+    "animeStarts": "",
+    "animeEnds": "",
+    "mangaStarts": "",
+    "mangaEnds": "",
+    "extraChapter": "",
+    "arc": ""
+  },
+  {
+    "animeStarts": 385,
+    "animeEnds": 385,
+    "mangaStarts": 490,
+    "mangaEnds": 490,
+    "extraChapter": "",
+    "arc": "Sabaody"
+  },
+  {
+    "animeStarts": 386,
+    "animeEnds": 386,
+    "mangaStarts": 490,
+    "mangaEnds": 491,
+    "extraChapter": "",
+    "arc": "Sabaody"
+  },
+  {
+    "animeStarts": 387,
+    "animeEnds": 387,
+    "mangaStarts": 492,
+    "mangaEnds": 493,
+    "extraChapter": "",
+    "arc": "Sabaody"
+  },
+  {
+    "animeStarts": 388,
+    "animeEnds": 388,
+    "mangaStarts": 493,
+    "mangaEnds": 494,
+    "extraChapter": "",
+    "arc": "Sabaody"
+  },
+  {
+    "animeStarts": 389,
+    "animeEnds": 389,
+    "mangaStarts": 494,
+    "mangaEnds": 495,
+    "extraChapter": "",
+    "arc": "Sabaody"
+  },
+  {
+    "animeStarts": 390,
+    "animeEnds": 390,
+    "mangaStarts": 496,
+    "mangaEnds": 496,
+    "extraChapter": "",
+    "arc": "Sabaody"
+  },
+  {
+    "animeStarts": 391,
+    "animeEnds": 391,
+    "mangaStarts": 497,
+    "mangaEnds": 497,
+    "extraChapter": "",
+    "arc": "Sabaody"
+  },
+  {
+    "animeStarts": 392,
+    "animeEnds": 392,
+    "mangaStarts": 498,
+    "mangaEnds": 498,
+    "extraChapter": "",
+    "arc": "Sabaody"
+  },
+  {
+    "animeStarts": 393,
+    "animeEnds": 393,
+    "mangaStarts": 499,
+    "mangaEnds": 499,
+    "extraChapter": "",
+    "arc": "Sabaody"
+  },
+  {
+    "animeStarts": 394,
+    "animeEnds": 394,
+    "mangaStarts": 500,
+    "mangaEnds": 500,
+    "extraChapter": "",
+    "arc": "Sabaody"
+  },
+  {
+    "animeStarts": 395,
+    "animeEnds": 395,
+    "mangaStarts": 501,
+    "mangaEnds": 501,
+    "extraChapter": "",
+    "arc": "Sabaody"
+  },
+  {
+    "animeStarts": 396,
+    "animeEnds": 396,
+    "mangaStarts": 502,
+    "mangaEnds": 502,
+    "extraChapter": "",
+    "arc": "Sabaody"
+  },
+  {
+    "animeStarts": 397,
+    "animeEnds": 397,
+    "mangaStarts": 503,
+    "mangaEnds": 503,
+    "extraChapter": "",
+    "arc": "Sabaody"
+  },
+  {
+    "animeStarts": 398,
+    "animeEnds": 398,
+    "mangaStarts": 504,
+    "mangaEnds": 504,
+    "extraChapter": "",
+    "arc": "Sabaody"
+  },
+  {
+    "animeStarts": 399,
+    "animeEnds": 399,
+    "mangaStarts": 505,
+    "mangaEnds": 506,
+    "extraChapter": "",
+    "arc": "Sabaody"
+  },
+  {
+    "animeStarts": 400,
+    "animeEnds": 400,
+    "mangaStarts": 506,
+    "mangaEnds": 507,
+    "extraChapter": "",
+    "arc": "Sabaody"
+  },
+  {
+    "animeStarts": 401,
+    "animeEnds": 401,
+    "mangaStarts": 507,
+    "mangaEnds": 508,
+    "extraChapter": "",
+    "arc": "Sabaody"
+  },
+  {
+    "animeStarts": 402,
+    "animeEnds": 402,
+    "mangaStarts": 509,
+    "mangaEnds": 510,
+    "extraChapter": "",
+    "arc": "Sabaody"
+  },
+  {
+    "animeStarts": 403,
+    "animeEnds": 403,
+    "mangaStarts": 510,
+    "mangaEnds": 511,
+    "extraChapter": "",
+    "arc": "Sabaody"
+  },
+  {
+    "animeStarts": 404,
+    "animeEnds": 404,
+    "mangaStarts": 511,
+    "mangaEnds": 512,
+    "extraChapter": "",
+    "arc": "Sabaody"
+  }
+]

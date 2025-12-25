@@ -1,57 +1,104 @@
+/*************************
+ * Reset
+ *************************/
+html, body {
+  margin: 0;
+  min-height: 100vh;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+/*************************
+ * Hintergrund
+ *************************/
 body {
-  font-family: Arial, sans-serif;
-  background: #0b3c5d;
-  color: white;
-  text-align: center;
-  padding: 40px;
+  background-image: url("bg.png");
+  background-repeat: no-repeat;
+  background-size: 100% 80vh;
+  background-position: center bottom;
 }
 
+/*************************
+ * Titel
+ *************************/
 h1 {
-  color: #f5d547;
+  text-align: center;
+  color: black;
+  margin: 30px 0 40px;
 }
 
-.box {
-  background: #1d2731;
-  padding: 20px;
-  margin: 20px auto;
-  width: 300px;
-  border-radius: 10px;
+/*************************
+ * Bühne
+ *************************/
+.viewport {
+  display: flex;
+  justify-content: center;
+  overflow: hidden;
 }
 
-input {
-  padding: 8px;
-  width: 80%;
+/*************************
+ * 🚢 SEGELBLOCK
+ * WICHTIG: row-reverse !!!
+ *************************/
+.sail-block {
+  display: flex;
+  flex-direction: row-reverse; 
+  align-items: center;
+
+  transform: translateX(-120%);
+  animation: sailIn 2.8s ease-out forwards;
 }
 
-button {
-  margin-top: 10px;
-  padding: 8px 15px;
-  background: #f5d547;
-  border: none;
-  cursor: pointer;
-  font-weight: bold;
-}
-
+/*************************
+ * Schiff
+ *************************/
 .ship {
-  position: relative;
-  width: 300px;
-  animation:
-    sailIn 2.5s ease-out forwards,
-    float 3s ease-in-out infinite;
-  animation-delay: 0s, 2.5s;
+  width: 60vh;
+  animation: bobbing 3s cubic-bezier(0.45, 0, 0.55, 1) infinite;
 }
 
+/*************************
+ * Converter
+ *************************/
+.converter {
+  max-width: 520px;
+}
+
+/*************************
+ * Animation
+ *************************/
 @keyframes sailIn {
-  from {
-    transform: translateX(-120%);
-  }
   to {
-    transform: translateX(0);
+    transform: translateX(80px);
   }
 }
 
-@keyframes float {
-  0% { transform: translateY(0); }
-  50% { transform: translateY(-8px); }
-  100% { transform: translateY(0); }
+/*************************
+ * Mobile
+ *************************/
+@media (max-width: 900px) {
+  .sail-block {
+    flex-direction: column;
+    gap: 20px;
+  }
+
+  .ship {
+    width: 70%;
+    
+  }
+
+  body {
+    background-size: 100% 28vh;
+  }
+}
+
+@keyframes bobbing {
+  0% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+  100% {
+    transform: translateY(0);
+  }
 }

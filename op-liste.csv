@@ -1,0 +1,415 @@
+﻿animeStarts;animeEnds;mangaStarts;mangaEnds;extraChapter;arc
+1;1;2;2;;East Blue
+2;2;3;5;;East Blue
+3;3;5;7;;East Blue
+4;4;1;1;8;East Blue
+5;5;8;11;;East Blue
+6;6;11;15;;East Blue
+7;7;15;18;;East Blue
+8;8;19;21;;East Blue
+9;9;23;24;;East Blue
+10;10;24;26;;East Blue
+11;11;26;27;;East Blue
+12;12;28;30;;East Blue
+13;13;30;32;;East Blue
+14;14;33;34;;East Blue
+15;15;35;37;;East Blue
+16;16;38;39;;East Blue
+17;17;39;41;;East Blue
+18;18;22;22;42;East Blue
+19;19;5;5;42;East Blue
+20;20;42;43;;East Blue
+21;21;44;45;;East Blue
+22;22;46;47;;East Blue
+23;23;48;49;;East Blue
+24;24;50;52;;East Blue
+25;25;53;55;;East Blue
+26;26;56;59;;East Blue
+27;27;59;62;;East Blue
+28;28;62;64;;East Blue
+29;29;65;66;;East Blue
+30;30;67;68;;East Blue
+31;31;69;71;;East Blue
+32;32;70;73;;East Blue
+33;33;73;75;;East Blue
+34;34;75;77;;East Blue
+35;35;77;78;;East Blue
+36;36;78;80;;East Blue
+37;37;80;81;;East Blue
+38;38;82;84;;East Blue
+39;39;84;86;;East Blue
+40;40;86;88;;East Blue
+41;41;88;90;;East Blue
+42;42;90;92;;East Blue
+43;43;92;94;;East Blue
+44;44;95;95;;East Blue
+45;45;96;96;;East Blue
+46;46;35;35;37,39,40,42,43,46,47,48,50,51,53,54;East Blue
+47;47;36;36;55,57,58,59,60,62,63,65,66,67,68,71,72,73,74,75;East Blue
+48;48;96;98;;East Blue
+49;49;97;97;;East Blue
+50;50;Filler;Filler;;East Blue
+51;51;Filler;Filler;;East Blue
+52;52;98;99;;East Blue
+53;53;100;100;;East Blue
+54;54;101;101;;East Blue
+55;55;101;101;;East Blue
+56;56;Filler;Filler;;East Blue
+57;57;Filler;Filler;;East Blue
+58;58;Filler;Filler;;East Blue
+59;59;Filler;Filler;;East Blue
+60;60;Filler;Filler;;East Blue
+61;61;101;101;;East Blue
+62;62;102;103;;Alabasta Saga
+63;63;103;105;;Alabasta Saga
+64;64;106;107;;Alabasta Saga
+65;65;107;110;;Alabasta Saga
+66;66;110;112;;Alabasta Saga
+67;67;113;114;;Alabasta Saga
+68;68;83;83;85,87,93,95,99,101,102,104,106,108,110,112,113;Alabasta Saga
+69;69;114;114;116,118,119;Alabasta Saga
+70;70;115;117;;Alabasta Saga
+71;71;116;116;118;Alabasta Saga
+72;72;117;119;;Alabasta Saga
+73;73;119;120;;Alabasta Saga
+74;74;121;122;;Alabasta Saga
+75;75;123;124;;Alabasta Saga
+76;76;124;126;;Alabasta Saga
+77;77;127;129;;Alabasta Saga
+78;78;129;131;;Alabasta Saga
+79;79;128;128;131,132;Alabasta Saga
+80;80;132;134;;Alabasta Saga
+81;81;134;136;;Alabasta Saga
+82;82;136;138;;Alabasta Saga
+83;83;138;139;;Alabasta Saga
+84;84;139;140;;Drum Island
+85;85;140;143;;Drum Island
+86;86;141;145;;Drum Island
+87;87;145;148;;Drum Island
+88;88;147;150;;Drum Island
+89;89;150;152;;Drum Island
+90;90;152;153;;Drum Island
+91;91;142;142;154,155;Drum Island
+;;;;;
+92;92;155;157;;Alabasta
+93;93;158;158;;Alabasta
+94;94;157;157;158;Alabasta
+95;95;159;159;;Alabasta
+96;96;159;161;;Alabasta
+97;97;162;162;;Alabasta
+98;98;162;162;;Alabasta
+99;99;Filler;Filler;;Alabasta
+100;100;163;164;;Alabasta
+101;101;159;159;;Alabasta
+102;102;Filler;Filler;;Alabasta
+103;103;160;165;;Alabasta
+104;104;165;166;;Alabasta
+105;105;167;168;;Alabasta
+106;106;169;170;;Alabasta
+107;107;171;172;;Alabasta
+108;108;172;174;;Alabasta
+109;109;175;176;;Alabasta
+110;110;176;178;;Alabasta
+111;111;179;180;;Alabasta
+112;112;180;183;;Alabasta
+113;113;182;184;;Alabasta
+114;114;184;186;;Alabasta
+115;115;186;188;;Alabasta
+116;116;188;190;;Alabasta
+117;117;190;192;;Alabasta
+118;118;192;193;;Alabasta
+119;119;194;195;;Alabasta
+120;120;196;197;;Alabasta
+121;121;198;199;;Alabasta
+122;122;200;201;;Alabasta
+123;123;202;203;;Alabasta
+124;124;204;205;;Alabasta
+125;125;206;208;;Alabasta
+126;126;208;210;;Alabasta
+127;127;211;212;;Alabasta
+128;128;213;214;;Alabasta
+129;129;215;216;;Alabasta
+130;130;217;218;;Alabasta
+131;131;Filler;Filler;;Post-Alabasta
+132;132;Filler;Filler;;Post-Alabasta
+133;133;Filler;Filler;;Post-Alabasta
+134;134;Filler;Filler;;Post-Alabasta
+135;135;Filler;Filler;;Post-Alabasta
+136;136;Filler;Filler;;Post-Alabasta
+137;137;Filler;Filler;;Post-Alabasta
+138;138;Filler;Filler;;Post-Alabasta
+139;139;Filler;Filler;;Post-Alabasta
+140;140;Filler;Filler;;Post-Alabasta
+141;141;Filler;Filler;;Post-Alabasta
+142;142;Filler;Filler;;Post-Alabasta
+142;142;Filler;Filler;;Post-Alabasta
+;;;;;
+143;143;218;218;;Post-Alabasta
+144;144;218;220;;Post-Alabasta
+145;145;221;221;;Skypiea Saga
+146;146;222;224;;Skypiea Saga
+147;147;225;226;;Skypiea Saga
+148;148;227;228;;Skypiea Saga
+149;149;229;230;;Skypiea Saga
+150;150;231;232;;Skypiea Saga
+151;151;232;234;;Skypiea Saga
+152;152;235;236;;Skypiea Saga
+153;153;237;238;;Skypiea Saga
+154;154;239;240;;Skypiea
+155;155;241;241;;Skypiea
+156;156;242;242;;Skypiea
+157;157;243;243;;Skypiea
+158;158;244;244;;Skypiea
+159;159;245;245;;Skypiea
+160;160;246;247;;Skypiea
+161;161;247;247;;Skypiea
+162;162;248;249;;Skypiea
+163;163;249;250;;Skypiea
+164;164;251;251;;Skypiea
+165;165;252;252;;Skypiea
+166;166;253;253;;Skypiea
+167;167;254;254;;Skypiea
+168;168;255;256;;Skypiea
+169;169;256;258;;Skypiea
+170;170;258;259;;Skypiea
+171;171;260;261;;Skypiea
+172;172;261;263;;Skypiea
+173;173;263;264;;Skypiea
+174;174;263;266;268,272;Skypiea
+175;175;266;267;;Skypiea
+176;176;268;268;15,269;Skypiea
+177;177;270;271;;Skypiea
+178;178;271;272;;Skypiea
+179;179;272;273;;Skypiea
+180;180;274;275;;Skypiea
+181;181;275;277;;Skypiea
+182;182;276;279;;Skypiea
+183;183;280;281;;Skypiea
+184;184;282;283;;Skypiea
+185;185;283;284;;Skypiea
+186;186;284;286;;Skypiea
+187;187;286;288;;Skypiea
+188;188;289;291;;Skypiea
+189;189;291;293;;Skypiea
+190;190;294;295;;Skypiea
+191;191;295;297;;Skypiea
+192;192;297;298;;Skypiea
+193;193;299;300;;Skypiea
+194;194;301;301;;Skypiea
+195;195;302;303;;Skypiea
+;;;;;
+196;196;Filler;Filler;;G-8
+197;197;Filler;Filler;;G-8
+198;198;Filler;Filler;;G-8
+199;199;Filler;Filler;;G-8
+200;200;Filler;Filler;;G-8
+201;201;Filler;Filler;;G-8
+202;202;Filler;Filler;;G-8
+203;203;303;303;;G-8
+204;204;Filler;Filler;;G-8
+205;205;Filler;Filler;;G-8
+206;206;Filler;Filler;;G-8
+;;;;;
+207;207;303;305;;Long Ring Long Land
+208;208;305;306;;Long Ring Long Land
+209;209;306;307;;Long Ring Long Land
+210;210;308;309;;Long Ring Long Land
+211;211;310;311;;Long Ring Long Land
+212;212;312;313;;Long Ring Long Land
+213;213;Filler;Filler;;Long Ring Long Land
+214;214;313;313;;Long Ring Long Land
+215;215;Filler;Filler;;Long Ring Long Land
+216;216;313;313;;Long Ring Long Land
+217;217;313;314;;Long Ring Long Land
+218;218;315;316;;Long Ring Long Land
+219;219;317;318;;Long Ring Long Land
+220;220;Filler;Filler;;Long Ring Long Land
+221;221;Filler;Filler;;Long Ring Long Land
+222;222;Filler;Filler;;Long Ring Long Land
+223;223;Filler;Filler;;Long Ring Long Land
+224;224;Filler;Filler;;Long Ring Long Land
+225;225;303;303;;Long Ring Long Land
+226;226;318;318;;Long Ring Long Land
+;;;;;
+227;227;319;320;;Water 7
+228;228;320;322;;Water 7
+229;229;322;324;;Water 7
+230;230;323;325;;Water 7
+231;231;325;326;;Water 7
+232;232;326;327;;Water 7
+233;233;328;329;;Water 7
+234;234;329;331;;Water 7
+235;235;331;332;;Water 7
+236;236;332;333;;Water 7
+237;237;334;335;;Water 7
+238;238;335;337;;Water 7
+239;239;337;339;;Water 7
+240;240;339;340;;Water 7
+241;241;340;342;;Water 7
+242;242;340;342;;Water 7
+243;243;343;345;;Water 7
+244;244;346;346;;Water 7
+245;245;347;348;;Water 7
+246;246;349;350;;Water 7
+247;247;350;352;;Water 7
+248;248;352;354;;Water 7
+249;249;353;356;;Water 7
+250;250;356;358;;Water 7
+251;251;358;359;;Water 7
+252;252;360;361;;Water 7
+253;253;361;362;;Water 7
+254;254;363;365;;Water 7
+255;255;364;365;;Water 7
+256;256;358;358;366;Water 7
+257;257;366;367;;Water 7
+258;258;368;369;;Water 7
+259;259;369;370;;Water 7
+260;260;370;372;;Water 7
+261;261;371;373;;Water 7
+262;262;373;374;;Water 7
+263;263;374;375;;Enies Lobby
+264;264;375;376;;Enies Lobby
+265;265;376;377;388;Enies Lobby
+266;266;378;379;;Enies Lobby
+267;267;379;380;;Enies Lobby
+268;268;381;382;;Enies Lobby
+269;269;382;383;;Enies Lobby
+270;270;383;384;;Enies Lobby
+271;271;384;385;;Enies Lobby
+272;272;385;387;;Enies Lobby
+273;273;387;388;;Enies Lobby
+274;274;389;390;;Enies Lobby
+275;275;391;392;;Enies Lobby
+276;276;393;395;;Enies Lobby
+277;277;395;397;;Enies Lobby
+278;278;397;398;;Enies Lobby
+279;279;Filler;Filler;;Enies Lobby
+280;280;Filler;Filler;;Enies Lobby
+281;281;Filler;Filler;;Enies Lobby
+282;282;Filler;Filler;;Enies Lobby
+283;283;Filler;Filler;;Enies Lobby
+284;284;399;400;;Enies Lobby
+285;285;400;400;;Enies Lobby
+286;286;401;402;;Enies Lobby
+287;287;402;403;;Enies Lobby
+288;288;403;404;;Enies Lobby
+289;289;405;406;;Enies Lobby
+290;290;406;407;;Enies Lobby
+291;291;Filler;Filler;;Post-Enies
+292;292;Filler;Filler;;Post-Enies
+293;293;407;408;;Post-Enies
+294;294;409;409;;Post-Enies
+295;295;410;411;;Post-Enies
+296;296;411;412;;Post-Enies
+297;297;413;414;;Post-Enies
+298;298;414;416;;Post-Enies
+299;299;416;417;;Post-Enies
+300;300;417;418;;Post-Enies
+301;301;419;420;;Post-Enies
+302;302;420;420;;Post-Enies
+303;303;Filler;Filler;;Post-Enies
+304;304;421;421;;Post-Enies
+305;305;422;422;;Post-Enies
+306;306;423;424;;Post-Enies
+307;307;424;425;;Post-Enies
+308;308;425;426;;Post-Enies
+309;309;426;427;;Post-Enies
+310;310;428;428;;Post-Enies
+311;311;429;429;;Post-Enies
+312;312;430;430;;Post-Enies
+313;313;431;431;;Post-Enies
+314;314;432;432;;Post-Enies
+315;315;433;433;;Post-Enies
+316;316;433;435;;Post-Enies
+317;317;Filler;Filler;;Post-Enies
+318;318;Filler;Filler;;Post-Enies
+319;319;435;435;;Post-Enies
+320;320;358;358;435;Post-Enies
+321;321;436;436;;Post-Enies
+322;322;437;437;;Post-Enies
+323;323;438;438;;Post-Enies
+324;324;439;440;;Post-Enies
+325;325;434;434;440,441;Post-Enies
+326;326;442;442;;Post-Enies
+;;;;;
+327;327;Filler;Filler;;Thriller Bark
+328;328;Filler;Filler;;Thriller Bark
+329;329;Filler;Filler;;Thriller Bark
+330;330;Filler;Filler;;Thriller Bark
+331;331;Filler;Filler;;Thriller Bark
+332;332;Filler;Filler;;Thriller Bark
+333;333;Filler;Filler;;Thriller Bark
+334;334;Filler;Filler;;Thriller Bark
+335;335;Filler;Filler;;Thriller Bark
+336;336;Filler;Filler;;Thriller Bark
+;;;;;
+337;337;442;442;;Thriller Bark
+338;338;443;443;;Thriller Bark
+339;339;443;444;;Thriller Bark
+340;340;445;446;;Thriller Bark
+341;341;446;447;;Thriller Bark
+342;342;447;449;;Thriller Bark
+343;343;448;449;;Thriller Bark
+344;344;449;450;;Thriller Bark
+345;345;451;451;;Thriller Bark
+346;346;452;452;;Thriller Bark
+347;347;453;453;;Thriller Bark
+348;348;454;454;;Thriller Bark
+349;349;455;455;;Thriller Bark
+350;350;456;456;;Thriller Bark
+351;351;457;457;;Thriller Bark
+352;352;458;458;;Thriller Bark
+353;353;458;459;;Thriller Bark
+354;354;459;459;;Thriller Bark
+355;355;460;460;;Thriller Bark
+356;356;461;461;;Thriller Bark
+357;357;462;462;;Thriller Bark
+358;358;463;464;;Thriller Bark
+359;359;463;464;;Thriller Bark
+360;360;465;465;;Thriller Bark
+361;361;466;466;;Thriller Bark
+362;362;466;467;;Thriller Bark
+363;363;468;468;;Thriller Bark
+364;364;469;469;;Thriller Bark
+365;365;470;470;;Thriller Bark
+366;366;471;471;;Thriller Bark
+367;367;472;472;;Thriller Bark
+368;368;473;473;;Thriller Bark
+369;369;474;474;;Thriller Bark
+370;370;475;476;;Thriller Bark
+371;371;476;477;;Thriller Bark
+372;372;478;479;;Thriller Bark
+373;373;480;481;;Thriller Bark
+374;374;481;482;;Thriller Bark
+375;375;483;483;;Thriller Bark
+376;376;484;484;;Thriller Bark
+377;377;485;485;;Thriller Bark
+378;378;486;486;;Thriller Bark
+379;379;487;487;;Thriller Bark
+380;380;487;488;;Thriller Bark
+381;381;489;490;;Thriller Bark
+;;;;;
+382;382;Filler;Filler;;Sabaody
+383;383;Filler;Filler;;Sabaody
+384;384;Filler;Filler;;Sabaody
+;;;;;
+385;385;490;490;;Sabaody
+386;386;490;491;;Sabaody
+387;387;492;493;;Sabaody
+388;388;493;494;;Sabaody
+389;389;494;495;;Sabaody
+390;390;496;496;;Sabaody
+391;391;497;497;;Sabaody
+392;392;498;498;;Sabaody
+393;393;499;499;;Sabaody
+394;394;500;500;;Sabaody
+395;395;501;501;;Sabaody
+396;396;502;502;;Sabaody
+397;397;503;503;;Sabaody
+398;398;504;504;;Sabaody
+399;399;505;506;;Sabaody
+400;400;506;507;;Sabaody
+401;401;507;508;;Sabaody
+402;402;509;510;;Sabaody
+403;403;510;511;;Sabaody
+404;404;511;512;;Sabaody
